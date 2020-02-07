@@ -1,10 +1,6 @@
 version: 0.2
             
 phases:
-  install:
-    commands:
-      - cd frontend
-      - npm install
   build:
     commands:
       - . ./management/deploy.sh
