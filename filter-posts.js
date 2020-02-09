@@ -38,7 +38,8 @@ const filterPosts = async () => {
     await fs.promises.mkdir(BOOKS_DIRECTORY)
   }
   
-  await cookPost(indexPostName, 'index')
+  // TO-DO: special treatment for index
+  // await cookPost(indexPostName, 'index')
 
   for ({ fileName, route } of stories) {
     await cookPost(fileName, route)

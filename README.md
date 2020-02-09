@@ -8,7 +8,12 @@
   Gatsby's blog starter
 </h1>
 
-medium2gatsby books_posts -o converted -t template.js -d
+unzip medium-export.zip -d medium-export
+mv medium-export/posts/ posts
+rm -rf medium-export
+rm -rf medium-export.zip
+node filter-posts.js
+books_posts -o content/blog -t template.js -d
 
 Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 

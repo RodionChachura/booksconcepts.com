@@ -3,20 +3,20 @@ slug: "/posts/key-concepts-of-the-book-psycho-cybernetics/"
 date: 2018-09-07
 title: "“Psycho Cybernetics” by Maxwell Maltz"
 draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to…"
+description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. Check out modern Pomodoro timer at…"
 categories: []
 keywords: [Self Improvement,Mindset,Reading,Books]
 ---
 
 ### “Psycho Cybernetics” by Maxwell Maltz
 
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to decide — want you to read this book or not.
+While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
 
 <figure>
 
-![](/images2/key-concepts-of-the-book-psycho-cybernetics-0)
+![](/images2/key-concepts-of-the-book-psycho-cybernetics-0.jpg)
 
-<figcaption>More key concepts of books <a href="https://medium.com/@geekrodion/after-we-finish-listening-adiobook-f67627288040" class="figcaption-link">here</a>.</figcaption></figure>
+<figcaption><a href="https://medium.com/@geekrodion/after-we-finish-listening-adiobook-f67627288040?source=post_page---------------------------" class="figcaption-link">other books key concepts</a></figcaption></figure>
 
 #### The Self Image: Your Key to a Better Life
 
@@ -151,5 +151,5 @@ While reading this book, I wrote down the main concepts from it. You may find th
 
 *   Mental attitudes can influence the body’s healing mechanisms.
 *   When we decide to curtail mental and social activities, we stultify ourselves.
-*   Develop an enthusiasm for life, crate a need for more life, and you will receive more life.
+*   Develop an enthusiasm for life, create a need for more life, and you will receive more life.
 *   You will experience happiness only as you experience more life.
