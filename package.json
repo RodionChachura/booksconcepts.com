@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "books-concepts",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Books Concepts",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Rodion Chachura <rodion@increaser.org>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
