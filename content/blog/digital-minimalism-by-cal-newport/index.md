@@ -10,8 +10,6 @@ keywords: [Social Media,Digital Minimalism,Cal Newport,Reading,Summary]
 
 ### “Digital Minimalism” by Cal Newport
 
-While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
-
 <figure>
 
 ![](/images2/digital-minimalism-by-cal-newport-0.jpg)

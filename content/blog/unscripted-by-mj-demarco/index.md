@@ -10,8 +10,6 @@ keywords: [Unscripted,Finance,Enterpreneurship,Financial Freedom,Business]
 
 ### “UNSCRIPTED” by MJ DeMarco
 
-While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
-
 <figure>
 
 ![](/images2/unscripted-by-mj-demarco-0.jpg)

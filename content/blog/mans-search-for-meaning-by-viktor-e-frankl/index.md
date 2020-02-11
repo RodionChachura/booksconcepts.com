@@ -10,8 +10,6 @@ keywords: [Life,Meaning Of Life,Victor Frankl,Suffering,Reading]
 
 ### “Man’s Search for Meaning” by Viktor E. Frankl
 
-While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
-
 <figure>
 
 ![](/images2/mans-search-for-meaning-by-viktor-e-frankl-0.jpg)

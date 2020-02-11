@@ -10,10 +10,6 @@ keywords: [Stoicism,Philosophy,Reading,Summary,Books]
 
 ### “A Guide To The Good Life: The Ancient Art Of Stoic Joy” by William B. Irvine
 
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished listening audiobook or want to refresh knowledge. Also, these notes can help you to decide — want you to read this book or not.
-
-It is a solid book and will be a good read for somebody who heard about Stoicism and thinking if this philosophy can be helpful in his life. If you decide to read this book I will recommend omitting the last chapter, and if you are not interested in the history of Stoicism — the second part of the book.
-
 <figure>
 
 ![](/images2/a-guide-to-the-good-life-the-ancient-art-of-stoic-joy-by-william-b-irvine-0.jpg)

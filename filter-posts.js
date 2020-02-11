@@ -12,6 +12,7 @@ const cookPost = async (fileName, route) => {
   const $ = cheerio.load(content)
   $('figcaption').first().remove()
   $('.section--last').remove()
+  $('figure').first().prevUntil('h3').remove()
   const newPath = path.join(__dirname, BOOKS_DIRECTORY, route)
   await fs.promises.writeFile(`${newPath}.html`, $.html())
 }

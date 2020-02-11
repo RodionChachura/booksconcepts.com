@@ -10,8 +10,6 @@ keywords: [Success,Books,Grant Cardone,Book Summary,The 10x Rule]
 
 ### “The 10X Rule” by Grant Cardone
 
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to decide — want you to read this book or not.
-
 <figure>
 
 ![](/images2/the-10x-rule-by-grant-cardone-0.jpg)

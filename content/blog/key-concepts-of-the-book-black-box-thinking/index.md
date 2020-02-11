@@ -10,8 +10,6 @@ keywords: [Self Improvement,Reading,Books]
 
 ### “Black Box Thinking” by Matthew Syed
 
-While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
-
 <figure>
 
 ![](/images2/key-concepts-of-the-book-black-box-thinking-0.jpg)

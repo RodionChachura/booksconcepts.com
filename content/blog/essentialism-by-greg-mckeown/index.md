@@ -10,8 +10,6 @@ keywords: [Self Improvement,Essentialism,Books,Reading]
 
 ### “Essentialism” by Greg McKeown
 
-While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
-
 <figure>
 
 ![](/images2/essentialism-by-greg-mckeown-0.jpg)

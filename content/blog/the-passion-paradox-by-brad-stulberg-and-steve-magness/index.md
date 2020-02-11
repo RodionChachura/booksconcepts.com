@@ -10,8 +10,6 @@ keywords: [Self Improvement,Passion,Books,Reading,Book Summary]
 
 ### “The Passion Paradox” by Brad Stulberg and Steve Magness
 
-While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
-
 <figure>
 
 ![](/images2/the-passion-paradox-by-brad-stulberg-and-steve-magness-0.jpg)

@@ -10,8 +10,6 @@ keywords: [Startup,Product Design,Habits,Reading,Books]
 
 ### “Hooked: How to Build Habit-Forming Products” by Nir Eyal
 
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished listening audiobook or want to refresh knowledge. Also, these notes can help you to decide — want you to read this book or not.
-
 <figure>
 
 ![](/images2/hooked-how-to-build-habit-forming-products-by-nir-eyal-0.jpg)

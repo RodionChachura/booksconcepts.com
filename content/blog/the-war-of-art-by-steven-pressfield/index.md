@@ -10,8 +10,6 @@ keywords: [Creativity,Self Improvement,Steven Pressfield,Book Summary,Reading]
 
 ### “The War of Art” by Steven Pressfield
 
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to decide — want you to read this book or not.
-
 <figure>
 
 ![](/images2/the-war-of-art-by-steven-pressfield-0.jpg)

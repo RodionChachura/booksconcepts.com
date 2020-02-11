@@ -10,8 +10,6 @@ keywords: [Positive Masculinity,Reading,Self Improvement,Books,Masculinity]
 
 ### “The Rational Male” by Rollo Tomassi
 
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading an audiobook or want to refresh knowledge. Also, these notes can help you to decide — want you to read this book or not.
-
 <figure>
 
 ![](/images2/the-rational-male-by-rollo-tomassi-0.jpg)

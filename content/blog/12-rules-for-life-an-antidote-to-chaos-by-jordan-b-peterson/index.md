@@ -10,8 +10,6 @@ keywords: [Self Improvement,Jordan Peterson,12 Rules For Life,Books]
 
 ### “12 Rules for Life: An Antidote to Chaos” by Jordan B. Peterson
 
-While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
-
 <figure>
 
 ![](/images2/12-rules-for-life-an-antidote-to-chaos-by-jordan-b-peterson-0.jpg)

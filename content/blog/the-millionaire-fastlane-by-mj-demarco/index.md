@@ -10,8 +10,6 @@ keywords: [Financial Freedom,Fastlane,Business,Reading,Success]
 
 ### “The Millionaire Fastlane” by MJ DeMarco
 
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished listening audiobook or want to refresh knowledge. Also, these notes can help you to decide — want you to read this book or not.
-
 <figure>
 
 ![](/images2/the-millionaire-fastlane-by-mj-demarco-0.jpg)

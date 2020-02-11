@@ -10,8 +10,6 @@ keywords: [Marketing,Marketing Plan]
 
 ### “The 1-Page Marketing Plan” by Allan Dib
 
-While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
-
 <figure>
 
 ![](/images2/the-1-page-marketing-plan-by-allan-dib-0.jpg)

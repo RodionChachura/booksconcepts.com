@@ -10,8 +10,6 @@ keywords: [Leadership,Books,Reading]
 
 ### “The Five Dysfunctions of a Team” by Patrick Lencioni
 
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to decide — want you to read this book or not.
-
 <figure>
 
 ![](/images2/key-concepts-of-the-book-the-five-disfunctions-of-a-team-0.jpg)

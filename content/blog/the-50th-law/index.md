@@ -10,8 +10,6 @@ keywords: [Self Improvement,Reading,Robert Greene,50 Cent,Power]
 
 ### “The 50th Law” by 50 Cent and Robert Greene
 
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to decide — want you to read this book or not.
-
 <figure>
 
 ![](/images2/the-50th-law-0.jpg)

@@ -10,8 +10,6 @@ keywords: [Self Improvement,Ryan Holiday,The Obstacle Is The Way,Stoicism,Books]
 
 ### “The Obstacle Is the Way” by Ryan Holiday
 
-While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
-
 <figure>
 
 ![](/images2/the-obstacle-is-the-way-by-ryan-holiday-0.jpg)

@@ -10,8 +10,6 @@ keywords: [Self Improvement,Reading,Mark Manson,Book Summary]
 
 ### “The Subtle Art of Not Giving a F*ck” by Mark Manson
 
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to decide — want you to read this book or not.
-
 <figure>
 
 ![](/images2/the-subtle-art-of-not-giving-a-f-ck-by-mark-manson-0.jpg)

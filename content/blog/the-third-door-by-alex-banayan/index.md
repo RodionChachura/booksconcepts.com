@@ -10,8 +10,6 @@ keywords: [Career Advice,Self Improvement,Reading,Books,The Third Door]
 
 ### “The Third Door” by Alex Banayan
 
-While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
-
 <figure>
 
 ![](/images2/the-third-door-by-alex-banayan-0.jpg)

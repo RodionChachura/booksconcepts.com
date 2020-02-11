@@ -10,8 +10,6 @@ keywords: [Self Improvement,Alter Ego,Books,Reading,Summary]
 
 ### “The Alter Ego Effect” by Todd Herman
 
-While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
-
 <figure>
 
 ![](/images2/the-alter-ego-by-todd-herman-0.jpg)
