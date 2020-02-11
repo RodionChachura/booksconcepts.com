@@ -6,6 +6,8 @@ const INDEX_POST_NAME_PART = 'After-We-Finish-Listening'
 const BOOKS_DIRECTORY = 'books_posts'
 const POSTS_DIRECTORY = path.join(__dirname, 'posts')
 
+const withoutLast = arr => arr.slice(0, arr.length - 1)
+
 const cookPost = async (fileName, route) => {
   const oldPath = path.join(POSTS_DIRECTORY, fileName)
   const content = await fs.promises.readFile(oldPath, 'utf8')
@@ -13,6 +15,11 @@ const cookPost = async (fileName, route) => {
   $('figcaption').first().remove()
   $('.section--last').remove()
   $('figure').first().prevUntil('h3').remove()
+  const link = $('.p-canonical')
+  const href = link.attr('href')
+  const [hash] = href.split('-').reverse()
+  const newHref = `${withoutLast(href.split('/')).join('/')}/${route}-${hash}`
+  link.attr('href', newHref)
   const newPath = path.join(__dirname, BOOKS_DIRECTORY, route)
   await fs.promises.writeFile(`${newPath}.html`, $.html())
 }
