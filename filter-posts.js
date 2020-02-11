@@ -10,8 +10,8 @@ const cookPost = async (fileName, route) => {
   const oldPath = path.join(POSTS_DIRECTORY, fileName)
   const content = await fs.promises.readFile(oldPath, 'utf8')
   const $ = cheerio.load(content)
+  $('figcaption').first().remove()
   $('.section--last').remove()
-  // TO-DO: special treatment for section dividers
   const newPath = path.join(__dirname, BOOKS_DIRECTORY, route)
   await fs.promises.writeFile(`${newPath}.html`, $.html())
 }

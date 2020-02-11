@@ -16,7 +16,7 @@ While reading this book, I wrote down the main concepts from it. They can be use
 
 ![](/images2/key-concepts-of-the-book-as-a-man-thinketh-0.jpg)
 
-<figcaption><a href="https://medium.com/@geekrodion/after-we-finish-listening-adiobook-f67627288040?source=post_page---------------------------" class="figcaption-link">other books key concepts</a></figcaption></figure>
+</figure>
 
 #### THOUGHT AND CHARACTER
 

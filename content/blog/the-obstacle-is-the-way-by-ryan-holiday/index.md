@@ -16,7 +16,7 @@ While reading this book, I wrote down the main concepts from it. They can be use
 
 ![](/images2/the-obstacle-is-the-way-by-ryan-holiday-0.jpg)
 
-<figcaption><a href="https://medium.com/@geekrodion/after-we-finish-listening-adiobook-f67627288040?source=post_page---------------------------" class="figcaption-link">other books key concepts</a></figcaption></figure>
+</figure>
 
 ### INTRODUCTION
 

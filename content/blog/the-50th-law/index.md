@@ -16,7 +16,7 @@ While reading this book, I wrote down the main concepts from it. You may find th
 
 ![](/images2/the-50th-law-0.jpg)
 
-<figcaption><a href="https://medium.com/@geekrodion/after-we-finish-listening-adiobook-f67627288040" class="figcaption-link">Find more key concepts from books</a></figcaption></figure>
+</figure>
 
 ### Foreword
 

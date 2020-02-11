@@ -16,7 +16,7 @@ While reading this book, I wrote down the main concepts from it. You may find th
 
 ![](/images2/the-subtle-art-of-not-giving-a-f-ck-by-mark-manson-0.jpg)
 
-<figcaption><a href="https://medium.com/@geekrodion/after-we-finish-listening-adiobook-f67627288040" class="figcaption-link">Find more key concepts from books</a></figcaption></figure>
+</figure>
 
 ### Chapter 1. Don’t Try
 

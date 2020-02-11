@@ -14,7 +14,7 @@ keywords: [Unscripted,Finance,Enterpreneurship,Financial Freedom,Business]
 
 ![](/images2/unscripted-by-mj-demarco-0.jpg)
 
-<figcaption><a href="https://medium.com/@geekrodion/after-we-finish-listening-adiobook-f67627288040?source=post_page---------------------------" class="figcaption-link">other books key concepts</a></figcaption></figure>
+</figure>
 
 While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
 

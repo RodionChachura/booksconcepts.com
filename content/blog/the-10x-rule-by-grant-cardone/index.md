@@ -16,7 +16,7 @@ While reading this book, I wrote down the main concepts from it. You may find th
 
 ![](/images2/the-10x-rule-by-grant-cardone-0.jpg)
 
-<figcaption>More key concepts of books <a href="https://medium.com/@geekrodion/after-we-finish-listening-adiobook-f67627288040" class="figcaption-link">here</a>.</figcaption></figure>
+</figure>
 
 #### Introduction
 

@@ -14,7 +14,7 @@ keywords: [Marketing,Donald Miller,Reading,Book Review]
 
 ![](/images2/building-a-storybrand-by-donald-miller-0.jpg)
 
-<figcaption>More key concepts of books <a href="https://medium.com/@geekrodion/after-we-finish-listening-adiobook-f67627288040" class="figcaption-link">here</a>.</figcaption></figure>
+</figure>
 
 While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to decide — want you to read this book or not.
 

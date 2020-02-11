@@ -16,7 +16,7 @@ While reading this book, I wrote down the main concepts from it. They can be use
 
 ![](/images2/12-rules-for-life-an-antidote-to-chaos-by-jordan-b-peterson-0.jpg)
 
-<figcaption><a href="https://medium.com/@geekrodion/after-we-finish-listening-adiobook-f67627288040?source=post_page---------------------------" class="figcaption-link">other books key concepts</a></figcaption></figure>
+</figure>
 
 ### RULE 1: STAND UP STRAIGHT WITH YOUR SHOULDERS BACK
 

@@ -16,7 +16,7 @@ While reading this book, I wrote down the main concepts from it. You may find th
 
 ![](/images2/the-war-of-art-by-steven-pressfield-0.jpg)
 
-<figcaption><a href="https://medium.com/@geekrodion/after-we-finish-listening-adiobook-f67627288040" class="figcaption-link">other books key concepts</a></figcaption></figure>
+</figure>
 
 Most of us have two lives. The life we live, and the unlived life within us. Between the two stands **Resistance**.
 

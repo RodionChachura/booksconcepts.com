@@ -18,7 +18,7 @@ It is a solid book and will be a good read for somebody who heard about Stoicism
 
 ![](/images2/a-guide-to-the-good-life-the-ancient-art-of-stoic-joy-by-william-b-irvine-0.jpg)
 
-<figcaption><a href="https://medium.com/@geekrodion/after-we-finish-listening-adiobook-f67627288040" class="figcaption-link">Find more key concepts from books</a></figcaption></figure>
+</figure>
 
 ### Introduction. A Plan for Living.
 

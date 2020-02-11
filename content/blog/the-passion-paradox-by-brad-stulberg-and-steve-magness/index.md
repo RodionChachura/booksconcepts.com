@@ -14,7 +14,7 @@ keywords: [Self Improvement,Passion,Books,Reading,Book Summary]
 
 ![](/images2/the-passion-paradox-by-brad-stulberg-and-steve-magness-0.jpg)
 
-<figcaption><a href="https://medium.com/@geekrodion/after-we-finish-listening-adiobook-f67627288040" class="figcaption-link">Find more key concepts from books</a></figcaption></figure>
+</figure>
 
 While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to decide — want you to read this book or not.
 
