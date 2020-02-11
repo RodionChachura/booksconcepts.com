@@ -1,13 +1,13 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Layout from "../components/layout"
 import SEO from "../components/seo"
+import PageContainer from '../components/page-container'
 import { books } from '../../content/blog/index.json'
 
 const BlogIndex = ({ data, location }) => {
   return (
-    <Layout location={location} title={data.site.siteMetadata.title}>
+    <PageContainer>
       <SEO title="All Books" />
       {books.map(({ name, route }) => 
         <div key={route} >
@@ -16,7 +16,7 @@ const BlogIndex = ({ data, location }) => {
           </Link>
         </div>
       )}
-    </Layout>
+    </PageContainer>
   )
 }
 

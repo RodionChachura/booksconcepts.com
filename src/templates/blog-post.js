@@ -1,22 +1,24 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Layout from "../components/layout"
 import SEO from "../components/seo"
+import PageContainer from "../components/page-container"
+import Header from "../components/header"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <PageContainer location={location}>
+      <Header title={siteTitle} />
       <SEO
         title={post.frontmatter.title}
       />
       <article>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
       </article>
-    </Layout>
+    </PageContainer>
   )
 }
 
