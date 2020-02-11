@@ -11,6 +11,7 @@ const cookPost = async (fileName, route) => {
   const content = await fs.promises.readFile(oldPath, 'utf8')
   const $ = cheerio.load(content)
   $('.section--last').remove()
+  // TO-DO: special treatment for section dividers
   const newPath = path.join(__dirname, BOOKS_DIRECTORY, route)
   await fs.promises.writeFile(`${newPath}.html`, $.html())
 }
@@ -33,6 +34,7 @@ const filterPosts = async () => {
         route
       }
     }).toArray()
+    .filter(s => s.fileName)
   const directoryExists = fs.existsSync(BOOKS_DIRECTORY)
   if (!directoryExists) {
     await fs.promises.mkdir(BOOKS_DIRECTORY)
