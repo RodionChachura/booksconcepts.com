@@ -10,7 +10,7 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={data.site.siteMetadata.title}>
       <SEO title="All Books" />
       {books.map(({ name, route }) => 
-        <div>
+        <div key={route} >
           <Link key={route} style={{ boxShadow: `none` }} to={`/${route}`}>
             {name}
           </Link>

@@ -72,11 +72,13 @@ module.exports = {
     {
       resolve: "gatsby-plugin-sentry",
       options: {
-        dsn: "Yhttps://7572155097a948beb54a9b8842f707da@sentry.io/2435864",
+        dsn: "https://7572155097a948beb54a9b8842f707da@sentry.io/2435864",
         environment: process.env.NODE_ENV,
         enabled: (() => ["production", "stage"].indexOf(process.env.NODE_ENV) !== -1)()
       }
-    }
+    },
+    'gatsby-plugin-theme-ui',
+    'gatsby-theme-ui-blog'
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
