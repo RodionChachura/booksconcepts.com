@@ -6,19 +6,16 @@ import SEO from "../components/seo"
 import { books } from '../../content/blog/index.json'
 
 const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata.title
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location} title={data.site.siteMetadata.title}>
       <SEO title="All Books" />
-      <ol>
-        {books.map(({ name, route }) => 
-        <li key={route}>
-          <Link style={{ boxShadow: `none` }} to={`/${route}`}>
+      {books.map(({ name, route }) => 
+        <div>
+          <Link key={route} style={{ boxShadow: `none` }} to={`/${route}`}>
             {name}
           </Link>
-        </li>
-        )}
-      </ol>
+        </div>
+      )}
     </Layout>
   )
 }
