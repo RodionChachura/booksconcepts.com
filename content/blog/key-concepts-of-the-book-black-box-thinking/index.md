@@ -3,14 +3,14 @@ slug: "/posts/key-concepts-of-the-book-black-box-thinking/"
 date: 2018-09-26
 title: "Key concepts of the book “Black Box Thinking”"
 draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to…"
+description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge."
 categories: []
 keywords: [Self Improvement,Reading,Books]
 ---
 
 ### “Black Box Thinking” by Matthew Syed
 
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to decide — want you to read this book or not.
+While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
 
 <figure>
 

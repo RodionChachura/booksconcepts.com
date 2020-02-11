@@ -3,20 +3,20 @@ slug: "/posts/essentialism-by-greg-mckeown/"
 date: 2019-03-09
 title: "“Essentialism” by Greg McKeown"
 draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to…"
+description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. Play expands our minds in ways that…"
 categories: []
 keywords: [Self Improvement,Essentialism,Books,Reading]
 ---
 
 ### “Essentialism” by Greg McKeown
 
+While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
+
 <figure>
 
 ![](/images2/essentialism-by-greg-mckeown-0.jpg)
 
 </figure>
-
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to decide — want you to read this book or not.
 
 ### The Essentialist
 

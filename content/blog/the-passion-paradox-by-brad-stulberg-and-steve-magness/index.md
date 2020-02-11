@@ -3,20 +3,20 @@ slug: "/posts/the-passion-paradox-by-brad-stulberg-and-steve-magness/"
 date: 2019-04-03
 title: "“The Passion Paradox” by Brad Stulberg and Steve Magness"
 draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to…"
+description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. Activities that fulfill these three…"
 categories: []
 keywords: [Self Improvement,Passion,Books,Reading,Book Summary]
 ---
 
 ### “The Passion Paradox” by Brad Stulberg and Steve Magness
 
+While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
+
 <figure>
 
 ![](/images2/the-passion-paradox-by-brad-stulberg-and-steve-magness-0.jpg)
 
 </figure>
-
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to decide — want you to read this book or not.
 
 ### Why a Book About Passion
 

@@ -3,20 +3,20 @@ slug: "/posts/building-a-storybrand-by-donald-miller/"
 date: 2018-11-22
 title: "Building a StoryBrand by Donald Miller"
 draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to…"
+description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge."
 categories: []
 keywords: [Marketing,Donald Miller,Reading,Book Review]
 ---
 
 ### “Building a StoryBrand” by Donald Miller
 
+While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
+
 <figure>
 
 ![](/images2/building-a-storybrand-by-donald-miller-0.jpg)
 
 </figure>
-
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to decide — want you to read this book or not.
 
 ### WHY MOST MARKETING IS A MONEY PIT
 

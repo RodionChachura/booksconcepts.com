@@ -3,20 +3,20 @@ slug: "/posts/the-third-door-by-alex-banayan/"
 date: 2019-04-19
 title: "“The Third Door” by Alex Banayan"
 draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to…"
+description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. There’s the First Door: the main…"
 categories: []
 keywords: [Career Advice,Self Improvement,Reading,Books,The Third Door]
 ---
 
 ### “The Third Door” by Alex Banayan
 
+While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
+
 <figure>
 
 ![](/images2/the-third-door-by-alex-banayan-0.jpg)
 
 </figure>
-
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to decide — want you to read this book or not.
 
 ### STEP 1: DITCH THE LINE
 

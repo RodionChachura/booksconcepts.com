@@ -3,20 +3,20 @@ slug: "/posts/the-alter-ego-by-todd-herman/"
 date: 2019-05-22
 title: "“The Alter Ego” by Todd Herman"
 draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to…"
+description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. The Core Self is where possibility…"
 categories: []
 keywords: [Self Improvement,Alter Ego,Books,Reading,Summary]
 ---
 
 ### “The Alter Ego Effect” by Todd Herman
 
+While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
+
 <figure>
 
 ![](/images2/the-alter-ego-by-todd-herman-0.jpg)
 
 </figure>
-
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to decide — want you to read this book or not.
 
 ### The Power of the Alter Ego Effect
 

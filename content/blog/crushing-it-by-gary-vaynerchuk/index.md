@@ -3,14 +3,14 @@ slug: "/posts/crushing-it-by-gary-vaynerchuk/"
 date: 2018-11-29
 title: "Crushing It! by Gary Vaynerchuk"
 draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to…"
+description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge."
 categories: []
 keywords: [Social Media,Personal Brand,Reading,Success,Gary Vaynerchuk]
 ---
 
 ### “Crushing It!” by Gary Vaynerchuk
 
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to decide — want you to read this book or not.
+While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
 
 <figure>
 

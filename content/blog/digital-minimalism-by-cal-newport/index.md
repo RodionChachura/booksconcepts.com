@@ -3,20 +3,20 @@ slug: "/posts/digital-minimalism-by-cal-newport/"
 date: 2019-07-21
 title: "“Digital Minimalism” by Cal Newport"
 draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to…"
+description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. The goal of this book is to make the…"
 categories: []
 keywords: [Social Media,Digital Minimalism,Cal Newport,Reading,Summary]
 ---
 
 ### “Digital Minimalism” by Cal Newport
 
+While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge.
+
 <figure>
 
 ![](/images2/digital-minimalism-by-cal-newport-0.jpg)
 
 </figure>
-
-While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to decide — want you to read this book or not.
 
 ### Introduction
 
