@@ -1,10 +1,5 @@
 ---
-slug: "/posts/the-millionaire-fastlane-by-mj-demarco/"
-date: 2019-02-01
 title: "“The Millionaire Fastlane” by MJ DeMarco"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished listening audiobook or want to refresh knowledge. Also, these notes can help you to…"
-categories: []
 keywords: [Financial Freedom,Fastlane,Business,Reading,Success]
 ---
 

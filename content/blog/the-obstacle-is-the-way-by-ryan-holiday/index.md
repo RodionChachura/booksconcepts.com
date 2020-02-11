@@ -1,10 +1,5 @@
 ---
-slug: "/posts/the-obstacle-is-the-way-by-ryan-holiday/"
-date: 2019-10-06
 title: "“The Obstacle Is the Way” by Ryan Holiday"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. It begins with how we look at our…"
-categories: []
 keywords: [Self Improvement,Ryan Holiday,The Obstacle Is The Way,Stoicism,Books]
 ---
 

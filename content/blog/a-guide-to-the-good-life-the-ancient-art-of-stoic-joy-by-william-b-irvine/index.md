@@ -1,10 +1,5 @@
 ---
-slug: "/posts/a-guide-to-the-good-life-the-ancient-art-of-stoic-joy-by-william-b-irvine/"
-date: 2018-12-29
 title: "“A Guide To The Good Life: The Ancient Art Of Stoic Joy” by William B. Irvine"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished listening audiobook or want to refresh knowledge. Also, these notes can help you to…"
-categories: []
 keywords: [Stoicism,Philosophy,Reading,Summary,Books]
 ---
 

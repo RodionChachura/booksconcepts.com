@@ -2,26 +2,9 @@ const path = require('path')
 
 module.exports = {
   render: function(data) {
-    // data.published is Date ISO format: 2018-04-16T14:48:00.000Z
-    var date = new Date(data.published);
-    var prettyDate =
-      date.getFullYear() +
-      '-' +
-      (date.getMonth() + 1).toString().padStart(2, 0) +
-      '-' +
-      date
-        .getDate()
-        .toString()
-        .padStart(2, 0); //2018-04-16
-    
-    var template = `\
+    const template = `\
 ---
-slug: "/posts/${data.titleForSlug}/"
-date: ${prettyDate}
 title: "${data.title}"
-draft: false
-description: "${data.description}"
-categories: []
 keywords: [${data.tags.join(',')}]
 ---
 

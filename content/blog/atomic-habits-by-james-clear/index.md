@@ -1,10 +1,5 @@
 ---
-slug: "/posts/atomic-habits-by-james-clear/"
-date: 2018-10-31
 title: "“Atomic Habits” by James Clear"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to…"
-categories: []
 keywords: [Habit Building,Reading,Success,Book Review]
 ---
 

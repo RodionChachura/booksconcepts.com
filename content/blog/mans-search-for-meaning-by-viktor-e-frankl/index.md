@@ -1,10 +1,5 @@
 ---
-slug: "/posts/mans-search-for-meaning-by-viktor-e-frankl/"
-date: 2019-07-09
 title: "“Man’s Search for Meaning” by Viktor E. Frankl"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. To live is to suffer, to survive is to…"
-categories: []
 keywords: [Life,Meaning Of Life,Victor Frankl,Suffering,Reading]
 ---
 

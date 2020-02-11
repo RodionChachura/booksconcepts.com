@@ -1,10 +1,5 @@
 ---
-slug: "/posts/the-rational-male-by-rollo-tomassi/"
-date: 2019-03-04
 title: "“The Rational Male” by Rollo Tomassi"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading an audiobook or want to refresh knowledge. Also, these notes can help you to…"
-categories: []
 keywords: [Positive Masculinity,Reading,Self Improvement,Books,Masculinity]
 ---
 

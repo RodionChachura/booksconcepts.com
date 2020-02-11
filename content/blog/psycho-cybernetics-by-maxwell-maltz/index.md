@@ -1,10 +1,5 @@
 ---
-slug: "/posts/psycho-cybernetics-by-maxwell-maltz/"
-date: 2018-09-07
 title: "“Psycho Cybernetics” by Maxwell Maltz"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. Check out modern Pomodoro timer at…"
-categories: []
 keywords: [Self Improvement,Mindset,Reading,Books]
 ---
 

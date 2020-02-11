@@ -1,10 +1,5 @@
 ---
-slug: "/posts/this-is-marketing-you-cant-be-seen-until-you-learn-to-see-by-seth-godin/"
-date: 2019-08-26
 title: "“This Is Marketing: You Can’t Be Seen Until You Learn to See” by Seth Godin"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. The effective kind of marketing is…"
-categories: []
 keywords: [Entrepreneurship,Marketing,Seth Godin,Books,Reading]
 ---
 

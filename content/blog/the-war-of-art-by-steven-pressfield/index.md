@@ -1,10 +1,5 @@
 ---
-slug: "/posts/the-war-of-art-by-steven-pressfield/"
-date: 2019-06-17
 title: "“The War of Art” by Steven Pressfield"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to…"
-categories: []
 keywords: [Creativity,Self Improvement,Steven Pressfield,Book Summary,Reading]
 ---
 

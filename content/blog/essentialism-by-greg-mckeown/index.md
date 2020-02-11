@@ -1,10 +1,5 @@
 ---
-slug: "/posts/essentialism-by-greg-mckeown/"
-date: 2019-03-09
 title: "“Essentialism” by Greg McKeown"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. Play expands our minds in ways that…"
-categories: []
 keywords: [Self Improvement,Essentialism,Books,Reading]
 ---
 

@@ -1,10 +1,5 @@
 ---
-slug: "/posts/black-box-thinking-by-matthew-syed/"
-date: 2018-09-26
 title: "Key concepts of the book “Black Box Thinking”"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge."
-categories: []
 keywords: [Self Improvement,Reading,Books]
 ---
 

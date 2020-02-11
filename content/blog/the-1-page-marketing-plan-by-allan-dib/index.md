@@ -1,10 +1,5 @@
 ---
-slug: "/posts/the-1-page-marketing-plan-by-allan-dib/"
-date: 2020-02-10
 title: "“The 1-Page Marketing Plan” by Allan Dib"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. If you didn’t go into business to make…"
-categories: []
 keywords: [Marketing,Marketing Plan]
 ---
 

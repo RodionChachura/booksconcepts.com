@@ -1,10 +1,5 @@
 ---
-slug: "/posts/the-50th-law-by-50-cent-and-robert-greene/"
-date: 2018-12-09
 title: "The 50th Law"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to…"
-categories: []
 keywords: [Self Improvement,Reading,Robert Greene,50 Cent,Power]
 ---
 

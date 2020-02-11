@@ -1,10 +1,5 @@
 ---
-slug: "/posts/the-five-dysfunctions-of-a-team-by-patrick-lencioni/"
-date: 2018-09-12
 title: "Key concepts of the book “The Five Disfunctions of a Team”"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to…"
-categories: []
 keywords: [Leadership,Books,Reading]
 ---
 

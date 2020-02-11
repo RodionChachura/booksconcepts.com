@@ -1,10 +1,5 @@
 ---
-slug: "/posts/the-passion-paradox-by-brad-stulberg-and-steve-magness/"
-date: 2019-04-03
 title: "“The Passion Paradox” by Brad Stulberg and Steve Magness"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. Activities that fulfill these three…"
-categories: []
 keywords: [Self Improvement,Passion,Books,Reading,Book Summary]
 ---
 

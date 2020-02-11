@@ -1,10 +1,5 @@
 ---
-slug: "/posts/cant-hurt-me-master-your-mind-and-defy-the-odds-by-david-goggins/"
-date: 2019-01-11
 title: "“Can’t Hurt Me: Master Your Mind and Defy the Odds” by David Goggins"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished listening audiobook or want to refresh knowledge. Also, these notes can help you to…"
-categories: []
 keywords: [Self Improvement,Reading,Books]
 ---
 

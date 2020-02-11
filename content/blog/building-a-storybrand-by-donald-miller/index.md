@@ -1,10 +1,5 @@
 ---
-slug: "/posts/building-a-storybrand-by-donald-miller/"
-date: 2018-11-22
 title: "Building a StoryBrand by Donald Miller"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge."
-categories: []
 keywords: [Marketing,Donald Miller,Reading,Book Review]
 ---
 

@@ -1,10 +1,5 @@
 ---
-slug: "/posts/the-10x-rule-by-grant-cardone/"
-date: 2018-11-19
 title: "The 10X Rule by Grant Cardone"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audiobook or want to refresh knowledge. Also, these notes can help you to…"
-categories: []
 keywords: [Success,Books,Grant Cardone,Book Summary,The 10x Rule]
 ---
 

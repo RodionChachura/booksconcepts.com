@@ -1,10 +1,5 @@
 ---
-slug: "/posts/as-a-man-thinketh-by-james-allen/"
-date: 2018-09-02
 title: "“As a Man Thinketh” by James Allen"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. Check out modern Pomodoro timer at…"
-categories: []
 keywords: [Self Improvement,Books]
 ---
 

@@ -1,10 +1,5 @@
 ---
-slug: "/posts/crushing-it-by-gary-vaynerchuk/"
-date: 2018-11-29
 title: "Crushing It! by Gary Vaynerchuk"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge."
-categories: []
 keywords: [Social Media,Personal Brand,Reading,Success,Gary Vaynerchuk]
 ---
 

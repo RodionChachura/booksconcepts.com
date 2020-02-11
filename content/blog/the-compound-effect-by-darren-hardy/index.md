@@ -1,10 +1,5 @@
 ---
-slug: "/posts/the-compound-effect-by-darren-hardy/"
-date: 2018-09-01
 title: "“The Compound Effect” by Darren Hardy"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge."
-categories: []
 keywords: [Self Improvement,Books,Book Review]
 ---
 

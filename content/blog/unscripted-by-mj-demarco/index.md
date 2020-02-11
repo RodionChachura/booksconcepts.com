@@ -1,10 +1,5 @@
 ---
-slug: "/posts/unscripted-by-mj-demarco/"
-date: 2019-09-16
 title: "“UNSCRIPTED by MJ DeMarco"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. If you don’t know, let me break it to…"
-categories: []
 keywords: [Unscripted,Finance,Enterpreneurship,Financial Freedom,Business]
 ---
 

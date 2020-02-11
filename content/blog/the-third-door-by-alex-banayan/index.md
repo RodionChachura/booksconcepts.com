@@ -1,10 +1,5 @@
 ---
-slug: "/posts/the-third-door-by-alex-banayan/"
-date: 2019-04-19
 title: "“The Third Door” by Alex Banayan"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. There’s the First Door: the main…"
-categories: []
 keywords: [Career Advice,Self Improvement,Reading,Books,The Third Door]
 ---
 

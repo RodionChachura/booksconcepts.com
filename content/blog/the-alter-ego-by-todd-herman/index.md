@@ -1,10 +1,5 @@
 ---
-slug: "/posts/the-alter-ego-by-todd-herman/"
-date: 2019-05-22
 title: "“The Alter Ego” by Todd Herman"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. They can be useful for you if just finished listening audiobook or want to refresh knowledge. The Core Self is where possibility…"
-categories: []
 keywords: [Self Improvement,Alter Ego,Books,Reading,Summary]
 ---
 

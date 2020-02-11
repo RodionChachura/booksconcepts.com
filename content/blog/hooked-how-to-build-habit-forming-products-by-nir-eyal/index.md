@@ -1,10 +1,5 @@
 ---
-slug: "/posts/hooked-how-to-build-habit-forming-products-by-nir-eyal/"
-date: 2019-01-19
 title: "“Hooked: How to Build Habit-Forming Products” by Nir Eyal"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished listening audiobook or want to refresh knowledge. Also, these notes can help you to…"
-categories: []
 keywords: [Startup,Product Design,Habits,Reading,Books]
 ---
 

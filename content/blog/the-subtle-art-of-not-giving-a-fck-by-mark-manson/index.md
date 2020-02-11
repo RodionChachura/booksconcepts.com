@@ -1,10 +1,5 @@
 ---
-slug: "/posts/the-subtle-art-of-not-giving-a-fck-by-mark-manson/"
-date: 2018-12-20
 title: "“The Subtle Art of Not Giving a F*ck” by Mark Manson"
-draft: false
-description: "While reading this book, I wrote down the main concepts from it. You may find them useful if you just finished reading audio book or want to refresh knowledge. Also, this notes can help you to…"
-categories: []
 keywords: [Self Improvement,Reading,Mark Manson,Book Summary]
 ---
 
