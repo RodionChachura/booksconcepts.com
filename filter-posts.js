@@ -24,11 +24,11 @@ const filterPosts = async () => {
   const $ = cheerio.load(indexPost)
   const stories = $('ol').find('a')
     .map((_, el) => {
-      const name = $(el).text().split('\n').join(' ').replace(/ +(?= )/g,'')
+      const name = $(el).text()
       const link = $(el).attr('href')
       const [hash] = link.split('-').reverse()
       const fileName = postsFilesNames.find(fn => fn.includes(hash))
-      const route = name.toLowerCase().split(' ').join('-').replace(/[^a-zA-Z0-9-_]/g, '')
+      const route = name.toLowerCase().split('\n').join(' ').replace(/ +(?= )/g,'').split(' ').join('-').replace(/[^a-zA-Z0-9-_]/g, '')
       return {
         name,
         fileName,
@@ -40,9 +40,11 @@ const filterPosts = async () => {
   if (!directoryExists) {
     await fs.promises.mkdir(BOOKS_DIRECTORY)
   }
-  
-  // TO-DO: special treatment for index
-  // await cookPost(indexPostName, 'index')
+  const indexJSON = JSON.stringify({
+    books: stories.map(({ fileName, ...book }) => book)
+  })
+  const indexJSONPath = path.join(__dirname, 'content', 'blog', 'index.json')
+  await fs.promises.writeFile(indexJSONPath, indexJSON)
 
   for ({ fileName, route } of stories) {
     await cookPost(fileName, route)
