@@ -54,7 +54,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Books Concepts`,
-        short_name: `GatsbyJS`,
+        short_name: `Books Concepts`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
@@ -63,12 +63,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
+
     {
       resolve: "gatsby-plugin-sentry",
       options: {
@@ -76,6 +71,15 @@ module.exports = {
         environment: process.env.NODE_ENV,
         enabled: (() => ["production", "stage"].indexOf(process.env.NODE_ENV) !== -1)()
       }
+    },
+    {
+      resolve: "gatsby-plugin-web-font-loader",
+      options: {
+        custom: {
+          families: ["SourceSerifPro"],
+          urls: ["/fonts/fonts.css"],
+        },
+      },
     },
     'gatsby-plugin-theme-ui',
     'gatsby-theme-ui-blog'

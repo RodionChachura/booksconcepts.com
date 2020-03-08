@@ -7,24 +7,26 @@ const Container = styled.div`
   height: 80px;
   display: flex;
   align-items: center;
-  justify-content: center;
-  padding: 0 40px;
 `
 
-const Content = styled.div`
-  width: 1320px;
+const Logo = styled(Link)`
+  font-weight: bold;
+  font-size: 34px;
+  text-decoration: none;
+  color: black;
+  transition: 0.3s ease-in;
+  :hover {
+    color: #46cdcf;
+  }
 `
 
 export default () => {
   return (
     <Container>
-      <Content>
-        <Link
-          to={`/`}
-        >
+
+        <Logo to={`/`}>
           BooksConcepts
-        </Link>
-      </Content>
+        </Logo>
     </Container>
   )
 }

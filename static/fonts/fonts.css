@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "SourceSerifPro";
+  src: url("SourceSerifPro-Bold.ttf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "SourceSerifPro";
+  src: url("SourceSerifPro-Regular.ttf");
+}

@@ -1,10 +1,14 @@
 import React from "react"
 import { graphql } from "gatsby"
+import styled from "@emotion/styled"
 
 import SEO from "../components/seo"
-import PageContent from "../components/page-content"
 import Page from "../components/page"
 import Navbar from "../components/navbar"
+
+const Article = styled.article`
+  max-width: 680px;
+`
 
 const BlogPostTemplate = ({ data }) => {
   const post = data.markdownRemark
@@ -15,11 +19,9 @@ const BlogPostTemplate = ({ data }) => {
       <SEO
         title={post.frontmatter.title}
       />
-      <PageContent>
-        <article>
-          <section dangerouslySetInnerHTML={{ __html: post.html }} />
-        </article>
-      </PageContent>
+      <Article>
+        <section dangerouslySetInnerHTML={{ __html: post.html }} />
+      </Article>
     </Page>
   )
 }
