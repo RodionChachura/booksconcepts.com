@@ -11,6 +11,8 @@ keywords: [Self Improvement,Books,Book Review]
 
 </figure>
 
+[Print](https://amzn.to/2SJkOhS) | [eBook](https://amzn.to/2HBJtP0) | [Audiobook](https://amzn.to/38La7kz)
+
 #### Chapter 1: THE COMPOUND EFFECT IN ACTION
 
 *   The Compound Effect is the principle of reaping huge rewards from a series of small, smart choices.

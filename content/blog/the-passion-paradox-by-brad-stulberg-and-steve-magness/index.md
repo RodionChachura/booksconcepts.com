@@ -11,6 +11,8 @@ keywords: [Self Improvement,Passion,Books,Reading,Book Summary]
 
 </figure>
 
+[Print](https://amzn.to/3bPBc82) | [eBook](https://amzn.to/2STj6cs) | [Audiobook](https://amzn.to/32an8BC)
+
 ### Why a Book About Passion
 
 *   Focusing on performance practices alone misses a crucial point. All the greats shared something else in common: An unrelenting drive. An eternal hunger. An inability to be satiated. Passion.

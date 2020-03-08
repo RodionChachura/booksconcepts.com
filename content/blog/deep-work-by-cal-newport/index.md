@@ -11,6 +11,8 @@ keywords: [Productivity,Books,Reading]
 
 </figure>
 
+[Print](https://amzn.to/2SGoPUa) | [eBook](https://amzn.to/329u9m6) | [Audiobook](https://amzn.to/2SLf873)
+
 #### Introduction
 
 *   Deep Work: Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.

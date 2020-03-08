@@ -11,6 +11,8 @@ keywords: [Positive Masculinity,Reading,Self Improvement,Books,Masculinity]
 
 </figure>
 
+[Print](https://amzn.to/2wyQOg3) | [eBook](https://amzn.to/2SHplBm) | [Audiobook](https://amzn.to/2HCbI07)
+
 ### The Basics
 
 *   **ONEitis**: An unhealthy romantic obsession with a single person. Usually accompanied by unreciprocated affection and completely unrealistic idealization of the said person.

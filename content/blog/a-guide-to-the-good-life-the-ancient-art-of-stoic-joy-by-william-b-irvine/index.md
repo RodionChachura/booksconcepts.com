@@ -11,6 +11,8 @@ keywords: [Stoicism,Philosophy,Reading,Summary,Books]
 
 </figure>
 
+[Print](https://amzn.to/32bWQyK) | [eBook](https://amzn.to/38Ld8Bp) | [Audiobook](https://amzn.to/2SJBCpa)
+
 ### Introduction. A Plan for Living.
 
 *   A grand goal in living is the first component of a philosophy of life. This means that if you lack a grand goal in living, you lack a coherent philosophy of life.

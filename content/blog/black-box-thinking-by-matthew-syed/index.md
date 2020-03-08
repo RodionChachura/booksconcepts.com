@@ -11,6 +11,8 @@ keywords: [Self Improvement,Reading,Books]
 
 </figure>
 
+[Print](https://amzn.to/2HBUgsF) | [eBook](https://amzn.to/2vQBI50) | [Audiobook](https://amzn.to/38JK39b)
+
 #### Part 1: The Logic Of Failure
 
 *   Learning from failure has the status of a cliché. But it turns out that, for reasons both prosaic and profound, a failure to learn from mistakes has been one of the single greatest obstacles to human progress.

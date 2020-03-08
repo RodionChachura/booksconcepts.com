@@ -11,6 +11,8 @@ keywords: [Unscripted,Finance,Enterpreneurship,Financial Freedom,Business]
 
 </figure>
 
+[Print](https://amzn.to/2HRTact) | [eBook](https://amzn.to/2HEGHbJ) | [Audiobook](https://amzn.to/2uksmhO)
+
 #### INTRODUCTION
 
 If you don’t know, let me break it to you: Slavery still exists. Except today’s contemporary slavery is called the **SCRIPT** — an implied social contract whereas a gilded cage is exchanged for voluntary indebtedness and lifelong toil, a price sacrificed by a non-redeemable fifty-years of Monday through Friday, an invisible servitude in which freedom is only promised by the arrival of life’s fading twilight. **UNSCRIPTED** is your blueprint into an awakening of abundance, freedom, and happiness; a keystone to unleashing a life few dream of.

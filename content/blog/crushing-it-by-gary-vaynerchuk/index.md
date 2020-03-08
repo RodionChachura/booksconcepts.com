@@ -11,6 +11,8 @@ keywords: [Social Media,Personal Brand,Reading,Success,Gary Vaynerchuk]
 
 </figure>
 
+[Print](https://amzn.to/328Up04) | [eBook](https://amzn.to/37CtoDm) | [Audiobook](https://amzn.to/38MMpV8)
+
 ### Introduction
 
 *   Now it’s everyone else’s turn to learn how to get paid to do something there were going to do for free anyway.

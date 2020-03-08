@@ -11,6 +11,8 @@ keywords: [Entrepreneurship,Marketing,Seth Godin,Books,Reading]
 
 </figure>
 
+[Print](https://amzn.to/2SJF7Mk) | [eBook](https://amzn.to/2SH6DtM) | [Audiobook](https://amzn.to/32cLhYr)
+
 ### Not Mass, Not Spam, Not Shameful…
 
 The effective kind of marketing is about understanding our customers’ worldview and desires so we can connect with them. It’s focused on being missed when you’re gone, on bringing more that people expect to those who trust us. It seeks volunteers, not victims.

@@ -11,6 +11,8 @@ keywords: [Marketing,Marketing Plan]
 
 </figure>
 
+[Print](https://amzn.to/3bPBc82) | [eBook](https://amzn.to/2STj6cs) | [Audiobook](https://amzn.to/38LlSr0)
+
 ### INTRODUCTION
 
 If you didn’t go into business to make money then you’re either lying or you have a hobby, not a business.

@@ -11,6 +11,8 @@ keywords: [Self Improvement,Reading,Robert Greene,50 Cent,Power]
 
 </figure>
 
+[Print](https://amzn.to/38V1HqZ) | [eBook](https://amzn.to/2HD6UY7) | [Audiobook](https://amzn.to/38JGjEF)
+
 ### Foreword
 
 *   Your fears are a kind of prison that confines you within a limited range of action. The less you fear, the more power you will have and the more fully you will live.

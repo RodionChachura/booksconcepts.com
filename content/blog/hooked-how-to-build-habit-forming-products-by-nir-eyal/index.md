@@ -11,6 +11,8 @@ keywords: [Startup,Product Design,Habits,Reading,Books]
 
 </figure>
 
+[Print](https://amzn.to/2V8caeA) | [eBook](https://amzn.to/329vV6K) | [Audiobook](https://amzn.to/2v3rwWR)
+
 ### INTRODUCTION
 
 *   Companies who form strong user habits enjoy several benefits to their bottom line. These companies attach their product to “internal triggers.” As a result, users show up without external prompting.

@@ -11,6 +11,8 @@ keywords: [Self Improvement,Jordan Peterson,12 Rules For Life,Books]
 
 </figure>
 
+[Print](https://amzn.to/2wpK2sP) | [eBook](https://amzn.to/2HFurrB) | [Audiobook](https://amzn.to/2wAEI6h)
+
 ### RULE 1: STAND UP STRAIGHT WITH YOUR SHOULDERS BACK
 
 Maybe you are a loser. And maybe you’re not — but if you are, you don’t have to continue in that mode. Maybe you just have a bad habit. Maybe you’re even just a collection of bad habits. Nonetheless, even if you came by your poor posture honestly — even if you were unpopular or bullied at home or in grade school — it’s not necessarily appropriate now. Circumstances change. If you slump around, with the same bearing that characterizes a defeated lobster, people will assign you a lower status, and the old counter that you share with crustaceans, sitting at the very base of your brain, will assign you a low dominance number. Then your brain will not produce as much serotonin. This will make you less happy, and more anxious and sad, and more likely to back down when you should stand up for yourself. It will also decrease the probability that you will get to live in a good neighbourhood, have access to the highest quality resources, and obtain a healthy, desirable mate. It will render you more likely to abuse cocaine and alcohol, as you live for the present in a world full of uncertain futures. It will increase your susceptibility to heart disease, cancer and dementia. All in all, it’s just not good.

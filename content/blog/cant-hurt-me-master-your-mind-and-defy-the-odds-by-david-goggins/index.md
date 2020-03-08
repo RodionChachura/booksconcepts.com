@@ -11,6 +11,8 @@ keywords: [Self Improvement,Reading,Books]
 
 </figure>
 
+[Print](https://amzn.to/2SIEzWV) | [eBook](https://amzn.to/37IuSfd) | [Audiobook](https://amzn.to/2vNNInZ)
+
 ### Introduction
 
 *   Only you can master your mind, which is what it takes to live a bold life filled with accomplishments most people consider beyond their capability.

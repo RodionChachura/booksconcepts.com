@@ -11,6 +11,8 @@ keywords: [Success,Books,Grant Cardone,Book Summary,The 10x Rule]
 
 </figure>
 
+[Print](https://amzn.to/3bUS8dq) | [eBook](https://amzn.to/2HG3qUR) | [Audiobook](https://amzn.to/2SKI8M0)
+
 #### Introduction
 
 *   Setting the right targets, estimating the mandatory effort, and operating at the right level of action(s) are the only things that will guarantee success — and that will allow you to blast through business cliches, competition, client resistance, economic challenges, risk aversion, and even fear of failure while taking concrete steps to reach your dreams.

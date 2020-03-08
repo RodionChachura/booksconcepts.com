@@ -11,6 +11,8 @@ keywords: [Life,Meaning Of Life,Victor Frankl,Suffering,Reading]
 
 </figure>
 
+[Print](https://amzn.to/2udMy4I) | [eBook](https://amzn.to/37Iw8yX) | [Audiobook](https://amzn.to/2SHJo2w)
+
 ### Preface
 
 To live is to suffer, to survive is to find meaning in the suffering. If there is purpose in life at all, there must be a purpose in suffering and in dying. Bat no man can tell another what this purpose is. Each must find out for himself, and must accept the responsibility that his answer prescribes. If he succeeds he will continue to grow in spite of all indignities

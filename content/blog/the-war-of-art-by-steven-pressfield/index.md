@@ -11,6 +11,8 @@ keywords: [Creativity,Self Improvement,Steven Pressfield,Book Summary,Reading]
 
 </figure>
 
+[Print](https://amzn.to/2HCOG9i) | [eBook](https://amzn.to/2P6XgRF) | [Audiobook](https://amzn.to/2v0RM4g)
+
 Most of us have two lives. The life we live, and the unlived life within us. Between the two stands **Resistance**.
 
 Resistance is the most toxic force on the planet. It is the root of more unhappiness than poverty, disease, and erectile dysfunction. To yield to Resistance deforms our spirit. It stunts us and makes us less than we are and were born to be.

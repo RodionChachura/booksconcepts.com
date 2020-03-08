@@ -11,6 +11,8 @@ keywords: [Self Improvement,Books]
 
 </figure>
 
+[Print](https://amzn.to/2SYcp9m) | [eBook](https://amzn.to/37JpLeE) | [Audiobook](https://amzn.to/2SGDOO3)
+
 #### THOUGHT AND CHARACTER
 
 *   A man is literally what he thinks, his character being the complete sum of all his thoughts

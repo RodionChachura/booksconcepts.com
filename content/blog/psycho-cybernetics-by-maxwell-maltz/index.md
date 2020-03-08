@@ -11,6 +11,8 @@ keywords: [Self Improvement,Mindset,Reading,Books]
 
 </figure>
 
+[Print](https://amzn.to/37L8PEC) | [eBook](https://amzn.to/2HG2HTD) | [Audiobook](https://amzn.to/2uPy9MB)
+
 #### The Self Image: Your Key to a Better Life
 
 *   Each of us carries about with us a mental blueprint or picture of ourselves — “self-image”. This self-image is our own conceptions of the “sort of person I am”.

@@ -11,6 +11,8 @@ keywords: [Marketing,Donald Miller,Reading,Book Review]
 
 </figure>
 
+[Print](https://amzn.to/2SXHAkY) | [eBook](https://amzn.to/2V9gday) | [Audiobook](https://amzn.to/2HEbXYr)
+
 ### WHY MOST MARKETING IS A MONEY PIT
 
 *   Even if we have the best product in the marketplace, we’ll lose to an inferior product if our competitor’s offer is communicated more clearly.

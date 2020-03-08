@@ -11,6 +11,8 @@ keywords: [Self Improvement,Ryan Holiday,The Obstacle Is The Way,Stoicism,Books]
 
 </figure>
 
+[Print](https://amzn.to/2vSMZ4M) | [eBook](https://amzn.to/2HHzTdo) | [Audiobook](https://amzn.to/39O3A8M)
+
 ### INTRODUCTION
 
 Overcoming obstacles is a discipline of three critical steps.

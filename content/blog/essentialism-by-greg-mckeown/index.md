@@ -11,6 +11,8 @@ keywords: [Self Improvement,Essentialism,Books,Reading]
 
 </figure>
 
+[Print](https://amzn.to/37J4d1Z) | [eBook](https://amzn.to/2vNOtNR) | [Audiobook](https://amzn.to/37HKCz9)
+
 ### The Essentialist
 
 *   Only ones you give yourself permission to stop trying to do it all, to stop saying yes to everyone, can you make your highest contribution towards the things that really matter.

@@ -2,21 +2,26 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 
 import SEO from "../components/seo"
+import Page from '../components/page'
+import Navbar from "../components/navbar"
 import PageContent from "../components/page-content"
 import { books } from '../../content/blog/index.json'
 
 const BlogIndex = ({ data, location }) => {
   return (
-    <PageContent>
+    <Page>
+      <Navbar/>
       <SEO title="All Books" />
-      {books.map(({ name, route }) => 
-        <div key={route} >
-          <Link key={route} style={{ boxShadow: `none` }} to={`/${route}`}>
-            {name}
-          </Link>
-        </div>
-      )}
-    </PageContent>
+      <PageContent>
+        {books.map(({ name, route }) => 
+          <div key={route} >
+            <Link key={route} style={{ boxShadow: `none` }} to={`/${route}`}>
+              {name}
+            </Link>
+          </div>
+        )}
+      </PageContent>
+    </Page>
   )
 }
 

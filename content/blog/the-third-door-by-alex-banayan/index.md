@@ -11,6 +11,8 @@ keywords: [Career Advice,Self Improvement,Reading,Books,The Third Door]
 
 </figure>
 
+[Print](https://amzn.to/2vP1O8N) | [eBook](https://amzn.to/2HHqliM) | [Audiobook](https://amzn.to/38JI0C1)
+
 ### STEP 1: DITCH THE LINE
 
 Life, business, success…it’s just like a nightclub.

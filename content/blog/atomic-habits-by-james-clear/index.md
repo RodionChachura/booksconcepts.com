@@ -11,6 +11,8 @@ keywords: [Habit Building,Reading,Success,Book Review]
 
 </figure>
 
+[Print](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=sr_1_1?tag=increaser0a-20) | [eBook](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/ref=tmm_kin_swatch_0?tag=increaser0a-20) | [Audiobook](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07J1PMF1H/ref=tmm_aud_swatch_0?tag=increaser0a-20)
+
 #### INTRODUCTION
 
 *   Changes that seem small and unimportant at first will compound into remarkable results if you’re willing to stick with them for years. We all deal with setbacks but in the long run, the quality of our lives often depends on the quality of our habits. With the same habits, you’ll end up with the same results. But with better habits, anything is possible.

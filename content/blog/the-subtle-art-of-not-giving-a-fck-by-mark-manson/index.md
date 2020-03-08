@@ -11,6 +11,8 @@ keywords: [Self Improvement,Reading,Mark Manson,Book Summary]
 
 </figure>
 
+[Print](https://amzn.to/38Qc27y) | [eBook](https://amzn.to/3bVoyUT) | [Audiobook](https://amzn.to/2P6VBeT)
+
 ### Chapter 1. Don’t Try
 
 *   The key to a good life is not giving a fuck about more; it’s giving a fuck about only what is true and immediate and important.

@@ -11,6 +11,8 @@ keywords: [Social Media,Digital Minimalism,Cal Newport,Reading,Summary]
 
 </figure>
 
+[Print](https://amzn.to/38KAeYQ) | [eBook](https://amzn.to/38F1pnP) | [Audiobook](https://amzn.to/37I9Opa)
+
 ### Introduction
 
 The goal of this book is to make the case for digital minimalism, including a more detailed exploration of what it asks and why it works, and then to teach you how to adopt this philosophy if you decide it’s right for you.

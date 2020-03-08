@@ -11,6 +11,8 @@ keywords: [Leadership,Books,Reading]
 
 </figure>
 
+[Print](https://amzn.to/32a14ap) | [eBook](https://amzn.to/38V5a8Z) | [Audiobook](https://amzn.to/32fR0N8)
+
 #### An overview of the model
 
 <figure>
