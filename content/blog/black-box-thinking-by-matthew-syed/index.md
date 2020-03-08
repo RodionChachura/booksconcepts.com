@@ -1,6 +1,7 @@
 ---
 title: "Key concepts of the book “Black Box Thinking”"
 keywords: [Self Improvement,Reading,Books]
+featuredImage: '/images2/black-box-thinking-by-matthew-syed-0.jpg'
 ---
 
 ### “Black Box Thinking” by Matthew Syed

@@ -1,6 +1,7 @@
 ---
 title: "“Psycho Cybernetics” by Maxwell Maltz"
 keywords: [Self Improvement,Mindset,Reading,Books]
+featuredImage: '/images2/psycho-cybernetics-by-maxwell-maltz-0.jpg'
 ---
 
 ### “Psycho Cybernetics” by Maxwell Maltz

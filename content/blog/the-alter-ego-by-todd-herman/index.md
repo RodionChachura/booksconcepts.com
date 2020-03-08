@@ -1,6 +1,7 @@
 ---
 title: "“The Alter Ego” by Todd Herman"
 keywords: [Self Improvement,Alter Ego,Books,Reading,Summary]
+featuredImage: '/images2/the-alter-ego-by-todd-herman-0.jpg'
 ---
 
 ### “The Alter Ego Effect” by Todd Herman
@@ -10,6 +11,8 @@ keywords: [Self Improvement,Alter Ego,Books,Reading,Summary]
 ![](/images2/the-alter-ego-by-todd-herman-0.jpg)
 
 </figure>
+
+[Print](https://amzn.to/38KydMi) | [eBook](https://amzn.to/2HFvcRt) | [Audiobook](https://amzn.to/2SLjf2Z)
 
 ### The Power of the Alter Ego Effect
 

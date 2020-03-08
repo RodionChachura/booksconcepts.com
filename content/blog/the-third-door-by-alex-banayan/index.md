@@ -1,6 +1,7 @@
 ---
 title: "“The Third Door” by Alex Banayan"
 keywords: [Career Advice,Self Improvement,Reading,Books,The Third Door]
+featuredImage: '/images2/the-third-door-by-alex-banayan-0.jpg'
 ---
 
 ### “The Third Door” by Alex Banayan

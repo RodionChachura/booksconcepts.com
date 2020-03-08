@@ -1,6 +1,7 @@
 ---
 title: "Key concepts of the book “Deep Work”"
 keywords: [Productivity,Books,Reading]
+featuredImage: '/images2/deep-work-by-cal-newport-0.jpg'
 ---
 
 ### “Deep Work” by Cal Newport
