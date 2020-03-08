@@ -1,6 +1,7 @@
 ---
 title: "“The Compound Effect” by Darren Hardy"
 keywords: [Self Improvement,Books,Book Review]
+featuredImage: '/images2/the-compound-effect-by-darren-hardy-0.jpg'
 ---
 
 ### “The Compound Effect” by Darren Hardy

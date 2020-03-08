@@ -1,6 +1,7 @@
 ---
 title: "“The War of Art” by Steven Pressfield"
 keywords: [Creativity,Self Improvement,Steven Pressfield,Book Summary,Reading]
+featuredImage: '/images2/the-war-of-art-by-steven-pressfield-0.jpg'
 ---
 
 ### “The War of Art” by Steven Pressfield

@@ -7,6 +7,7 @@ import Navbar from "../components/navbar"
 import { books } from '../../content/blog/index.json'
 
 const BlogIndex = ({ data, location }) => {
+  console.log(data)
   return (
     <Page>
       <Navbar/>
@@ -29,6 +30,26 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+      }
+    }
+    allMarkdownRemark {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            featuredImage {
+              childImageSharp {
+                sizes(maxWidth: 630) {
+                  ...GatsbyImageSharpSizes
+                }
+              }
+            }
+          }
+        }
       }
     }
   }
