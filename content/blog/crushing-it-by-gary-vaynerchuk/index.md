@@ -1,7 +1,7 @@
 ---
 title: "Crushing It! by Gary Vaynerchuk"
 keywords: [Social Media,Personal Brand,Reading,Success,Gary Vaynerchuk]
-featuredImage: '/images2/crushing-it-by-gary-vaynerchuk-0.jpg'
+featuredImage: './images2/crushing-it-by-gary-vaynerchuk-0.jpg'
 ---
 
 ### “Crushing It!” by Gary Vaynerchuk

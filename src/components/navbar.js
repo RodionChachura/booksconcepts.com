@@ -23,7 +23,6 @@ const Logo = styled(Link)`
 export default () => {
   return (
     <Container>
-
         <Logo to={`/`}>
           BooksConcepts
         </Logo>

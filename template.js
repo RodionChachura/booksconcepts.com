@@ -6,7 +6,7 @@ module.exports = {
 ---
 title: "${data.title}"
 keywords: [${data.tags.join(',')}]
-featuredImage: '${data.images[0].localPath}'
+featuredImage: '.${data.images[0].localPath}'
 ---
 
 ${data.body}

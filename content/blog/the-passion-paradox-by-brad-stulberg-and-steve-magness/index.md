@@ -1,7 +1,7 @@
 ---
 title: "“The Passion Paradox” by Brad Stulberg and Steve Magness"
 keywords: [Self Improvement,Passion,Books,Reading,Book Summary]
-featuredImage: '/images2/the-passion-paradox-by-brad-stulberg-and-steve-magness-0.jpg'
+featuredImage: './images2/the-passion-paradox-by-brad-stulberg-and-steve-magness-0.jpg'
 ---
 
 ### “The Passion Paradox” by Brad Stulberg and Steve Magness
