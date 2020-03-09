@@ -5,6 +5,7 @@ import styled from "@emotion/styled"
 import SEO from "../components/seo"
 import Page from '../components/page'
 import Navbar from "../components/navbar"
+import index from '../../content/blog/index.json'
 
 const Grid = styled.div`
   width: 100%;
@@ -15,24 +16,51 @@ const Grid = styled.div`
 `
 
 const Container = styled(Link)`
-  /* border: 2px solid transparent;
+  min-height: 400px;
+  text-decoration: none;
   transition: 0.3s ease-in;
+  color: black;
   :hover {
-    border-color: #46cdcf;
-  } */
+    color: #46cdcf;
+  }
+`
+
+const Name = styled.p`
+  font-size: 18px;
+  color: inherit;
+  margin: 0 0 5px 0;
+`
+
+const Author = styled.p`
+  color: #616161;
+  margin: 0;
 `
 
 const BlogIndex = ({ data }) => {
   const nodes = data.allMarkdownRemark.edges.map(e => e.node)
-  console.log(nodes)
+  const books = nodes.map(n => {
+    const image = n.frontmatter.featuredImage.childImageSharp.fixed
+    const { route, name } = index.books.find(b => b.route === n.fields.slug.split('/').join(''))
+    const [title, author] = name.split(' by ')
+    const subtitleStart = title.indexOf(':')
+    return {
+      route,
+      name,
+      title: subtitleStart > 0 ? `${title.slice(0, subtitleStart)}${title.slice(title.length - 1)}` : title,
+      author,
+      image
+    }
+  })
   return (
     <Page>
       <Navbar/>
       <SEO title="All Books" />
       <Grid>
-        {nodes.map(n => (
-          <Container key={n.id} to={n.fields.slug}>
-            <Img fixed={n.frontmatter.featuredImage.childImageSharp.fixed} />
+        {books.map(book => (
+          <Container key={book.route} to={book.route}>
+            <Img fixed={book.image} />
+            <Name>{book.title}</Name>
+            <Author>{book.author}</Author>
           </Container>
         ))}
       </Grid>
