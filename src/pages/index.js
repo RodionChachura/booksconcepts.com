@@ -6,6 +6,7 @@ import SEO from "../components/seo"
 import Page from '../components/page'
 import Navbar from "../components/navbar"
 import index from '../../content/blog/index.json'
+import Layout from '../components/layout'
 
 const Grid = styled.div`
   width: 100%;
@@ -50,19 +51,21 @@ const BlogIndex = ({ data }) => {
     }
   })
   return (
-    <Page>
-      <Navbar indexPage/>
-      <SEO title="All Books" />
-      <Grid>
-        {books.map(book => (
-          <Container key={book.route} to={book.route}>
-            <Name>{book.title}</Name>
-            <Author>{book.author}</Author>
-            <Img fixed={book.image} />
-          </Container>
-        ))}
-      </Grid>
-    </Page>
+    <Layout>
+      <Page>
+        <Navbar indexPage/>
+        <SEO title="All Books" />
+        <Grid>
+          {books.map(book => (
+            <Container key={book.route} to={book.route}>
+              <Name>{book.title}</Name>
+              <Author>{book.author}</Author>
+              <Img fixed={book.image} />
+            </Container>
+          ))}
+        </Grid>
+      </Page>
+    </Layout>
   )
 }
 
