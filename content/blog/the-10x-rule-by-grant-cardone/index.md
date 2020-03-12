@@ -1,4 +1,5 @@
 ---
+minutes: 14.93
 title: "The 10X Rule by Grant Cardone"
 keywords: [Success,Books,Grant Cardone,Book Summary,The 10x Rule]
 featuredImage: './images2/the-10x-rule-by-grant-cardone-0.jpg'

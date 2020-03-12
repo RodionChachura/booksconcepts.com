@@ -1,9 +1,12 @@
 const path = require('path')
+const readingTime= require('reading-time')
 
 module.exports = {
   render: function(data) {
+    const { minutes } = readingTime(data.body)
     const template = `\
 ---
+minutes: ${minutes}
 title: "${data.title}"
 keywords: [${data.tags.join(',')}]
 featuredImage: '.${data.images[0].localPath}'

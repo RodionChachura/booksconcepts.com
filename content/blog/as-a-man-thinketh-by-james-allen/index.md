@@ -1,4 +1,5 @@
 ---
+minutes: 2.745
 title: "“As a Man Thinketh” by James Allen"
 keywords: [Self Improvement,Books]
 featuredImage: './images2/as-a-man-thinketh-by-james-allen-0.jpg'

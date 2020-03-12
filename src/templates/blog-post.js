@@ -13,7 +13,6 @@ const Article = styled.article`
 
 const BlogPostTemplate = ({ data }) => {
   const post = data.markdownRemark
-
   return (
     <Layout>
       <Page>

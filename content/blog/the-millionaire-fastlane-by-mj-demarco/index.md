@@ -1,4 +1,5 @@
 ---
+minutes: 24.13
 title: "“The Millionaire Fastlane” by MJ DeMarco"
 keywords: [Financial Freedom,Fastlane,Business,Reading,Success]
 featuredImage: './images2/the-millionaire-fastlane-by-mj-demarco-0.jpg'

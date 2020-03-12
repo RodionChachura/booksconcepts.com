@@ -35,19 +35,24 @@ const Author = styled(Name)`
   margin-bottom: 10px;
 `
 
+const Minutes = styled(Author)`
+  margin-top: 10px;
+  font-weight: bold;
+`
+
 const BlogIndex = ({ data }) => {
   const nodes = data.allMarkdownRemark.edges.map(e => e.node)
-  const books = nodes.map(n => {
-    const image = n.frontmatter.featuredImage.childImageSharp.fixed
-    const { name } = index.books.find(b => b.route === n.fields.slug.split('/').join(''))
+  const books = index.books.map(({ name, route }) => {
+    const { frontmatter: { featuredImage, minutes }, fields: { slug }} = nodes.find(n => n.fields.slug.split('/').join('') === route)
     const [title, author] = name.split(' by ')
     const subtitleStart = title.indexOf(':')
     return {
-      route: n.fields.slug,
+      route: slug,
       name,
       title: subtitleStart > 0 ? `${title.slice(0, subtitleStart)}${title.slice(title.length - 1)}` : title,
       author,
-      image
+      image: featuredImage.childImageSharp.fixed,
+      minutes
     }
   })
   return (
@@ -61,6 +66,7 @@ const BlogIndex = ({ data }) => {
               <Name>{book.title}</Name>
               <Author>{book.author}</Author>
               <Img fixed={book.image} />
+              <Minutes>{Math.round(book.minutes)} min read</Minutes>
             </Container>
           ))}
         </Grid>
@@ -87,6 +93,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            minutes
             featuredImage {
               childImageSharp {
                 fixed(height: 300) {

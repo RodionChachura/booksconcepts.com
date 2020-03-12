@@ -1,4 +1,5 @@
 ---
+minutes: 4.345
 title: "Key concepts of the book “The Five Disfunctions of a Team”"
 keywords: [Leadership,Books,Reading]
 featuredImage: './images2/the-five-dysfunctions-of-a-team-by-patrick-lencioni-0.jpg'
