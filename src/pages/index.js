@@ -18,22 +18,20 @@ const Grid = styled.div`
 const Container = styled(Link)`
   min-height: 400px;
   text-decoration: none;
-  transition: 0.3s ease-in;
-  color: black;
-  :hover {
-    color: #46cdcf;
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 `
 
 const Name = styled.p`
   font-size: 18px;
-  color: inherit;
-  margin: 0 0 5px 0;
+  color: black;
+  margin: 0;
 `
 
-const Author = styled.p`
+const Author = styled(Name)`
   color: #616161;
-  margin: 0;
+  margin-bottom: 10px;
 `
 
 const BlogIndex = ({ data }) => {
@@ -58,9 +56,9 @@ const BlogIndex = ({ data }) => {
       <Grid>
         {books.map(book => (
           <Container key={book.route} to={book.route}>
-            <Img fixed={book.image} />
             <Name>{book.title}</Name>
             <Author>{book.author}</Author>
+            <Img fixed={book.image} />
           </Container>
         ))}
       </Grid>
