@@ -1,5 +1,6 @@
 import React from "react"
 import styled from "@emotion/styled"
+import { css } from '@emotion/core'
 import { Link } from "gatsby"
 
 const Container = styled.div`
@@ -15,17 +16,19 @@ const Logo = styled(Link)`
   text-decoration: none;
   color: black;
   transition: 0.3s ease-in;
-  :hover {
-    color: #46cdcf;
-  }
+  ${p => p.hoverable && css`
+    :hover {
+      color: #46cdcf;
+    }
+  `}
 `
 
-export default () => {
+export default ({ indexPage = false}) => {
   return (
     <Container>
-        <Logo to={`/`}>
-          BooksConcepts
-        </Logo>
+      <Logo hoverable={!indexPage} to={`/`}>
+        BooksConcepts
+      </Logo>
     </Container>
   )
 }

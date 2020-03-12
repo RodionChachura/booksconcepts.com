@@ -40,11 +40,11 @@ const BlogIndex = ({ data }) => {
   const nodes = data.allMarkdownRemark.edges.map(e => e.node)
   const books = nodes.map(n => {
     const image = n.frontmatter.featuredImage.childImageSharp.fixed
-    const { route, name } = index.books.find(b => b.route === n.fields.slug.split('/').join(''))
+    const { name } = index.books.find(b => b.route === n.fields.slug.split('/').join(''))
     const [title, author] = name.split(' by ')
     const subtitleStart = title.indexOf(':')
     return {
-      route,
+      route: n.fields.slug,
       name,
       title: subtitleStart > 0 ? `${title.slice(0, subtitleStart)}${title.slice(title.length - 1)}` : title,
       author,
@@ -53,7 +53,7 @@ const BlogIndex = ({ data }) => {
   })
   return (
     <Page>
-      <Navbar/>
+      <Navbar indexPage/>
       <SEO title="All Books" />
       <Grid>
         {books.map(book => (
