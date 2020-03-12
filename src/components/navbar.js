@@ -10,6 +10,7 @@ const Container = styled.div`
 `
 
 const Logo = styled(Link)`
+  color: ${p => p.theme.color.mainFont};
   font-weight: bold;
   font-size: 34px;
   text-decoration: none;

@@ -41,6 +41,17 @@ const Minutes = styled(Author)`
   font-weight: bold;
 `
 
+const PromoText = styled.p`
+  font-size: 32px;
+  color: ${p => p.theme.color.mainFont};
+  font-weight: bold;
+`
+
+const AuthorLink = styled.a`
+  text-decoration: none;
+  color: ${p => p.theme.color.primaryFont};
+`
+
 const BlogIndex = ({ data }) => {
   const nodes = data.allMarkdownRemark.edges.map(e => e.node)
   const books = index.books.map(({ name, route }) => {
@@ -58,9 +69,11 @@ const BlogIndex = ({ data }) => {
   })
   return (
     <Layout>
+      <SEO title="All Books" />
       <Page>
         <Navbar indexPage/>
-        <SEO title="All Books" />
+        <PromoText>Key concepts from the best nonfiction books</PromoText>
+        <PromoText>curated by <AuthorLink target="_blank" href={AUTHOR}>GeekRodion</AuthorLink></PromoText>
         <Grid>
           {books.map(book => (
             <Container key={book.route} to={book.route}>
