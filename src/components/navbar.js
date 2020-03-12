@@ -17,7 +17,7 @@ const Logo = styled(Link)`
   transition: 0.3s ease-in;
   ${p => p.hoverable && css`
     :hover {
-      color: #46cdcf;
+      color: ${p => p.theme.color.primaryFont};
     }
   `}
 `

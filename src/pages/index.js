@@ -9,6 +9,7 @@ import index from '../../content/blog/index.json'
 import Layout from '../components/layout'
 
 const Grid = styled.div`
+  margin-top: 40px;
   width: 100%;
   grid-column-gap: 20px;
   grid-row-gap: 20px;
@@ -26,12 +27,12 @@ const Container = styled(Link)`
 
 const Name = styled.p`
   font-size: 18px;
-  color: black;
+  color: ${p => p.theme.color.mainFont};
   margin: 0;
 `
 
 const Author = styled(Name)`
-  color: #616161;
+  color: ${p => p.theme.color.secondaryFont};
   margin-bottom: 10px;
 `
 
