@@ -7,6 +7,7 @@ import Page from '../components/page'
 import Navbar from "../components/navbar"
 import index from '../../content/blog/index.json'
 import Layout from '../components/layout'
+import { AUTHOR } from '../constants/links'
 
 const Grid = styled.div`
   margin-top: 40px;
@@ -15,14 +16,28 @@ const Grid = styled.div`
   grid-row-gap: 20px;
   display: grid;
   grid-template-columns: repeat(auto-fit, 300px);
+  justify-content: center;
+`
+
+const ImgWrapper = styled.div`
+  border: 2px solid transparent;
 `
 
 const Container = styled(Link)`
-  min-height: 400px;
+  padding: 5px;
+  min-height: 380px;
+  min-width: 300px;
+  transition: ${p => p.theme.transition.default};
+  border-radius: 5px;
   text-decoration: none;
   display: flex;
   flex-direction: column;
   align-items: center;
+  border: 2px solid transparent;
+  :hover {
+    background: #F1F6F4;
+    border-color: ${p => p.theme.color.primaryFont};
+  }
 `
 
 const Name = styled.p`
@@ -79,7 +94,9 @@ const BlogIndex = ({ data }) => {
             <Container key={book.route} to={book.route}>
               <Name>{book.title}</Name>
               <Author>{book.author}</Author>
-              <Img fixed={book.image} />
+              <ImgWrapper>
+                <Img fixed={book.image} />
+              </ImgWrapper>
               <Minutes>{Math.round(book.minutes)} min read</Minutes>
             </Container>
           ))}
@@ -110,7 +127,7 @@ export const pageQuery = graphql`
             minutes
             featuredImage {
               childImageSharp {
-                fixed(height: 300) {
+                fixed(height: 280) {
                   ...GatsbyImageSharpFixed
                 }
               }
