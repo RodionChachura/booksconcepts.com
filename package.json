@@ -8,8 +8,6 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.27",
-    "@emotion/styled": "^10.0.27",
     "gatsby": "^2.19.7",
     "gatsby-image": "^2.2.43",
     "gatsby-plugin-feed": "^2.3.26",
@@ -19,7 +17,6 @@
     "gatsby-plugin-react-helmet": "^3.1.21",
     "gatsby-plugin-sentry": "^1.0.1",
     "gatsby-plugin-sharp": "^2.4.3",
-    "gatsby-plugin-theme-ui": "^0.3.0",
     "gatsby-plugin-typography": "^2.3.21",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-remark-copy-linked-files": "^2.1.36",
@@ -28,14 +25,14 @@
     "gatsby-remark-responsive-iframe": "^2.2.31",
     "gatsby-remark-smartypants": "^2.1.20",
     "gatsby-source-filesystem": "^2.1.46",
-    "gatsby-theme-ui-blog": "^0.3.1",
     "gatsby-transformer-remark": "^2.6.55",
     "gatsby-transformer-sharp": "^2.3.13",
     "lodash.merge": "^4.6.2",
     "prismjs": "^1.19.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "styled-components": "^5.0.1"
   },
   "devDependencies": {
     "cheerio": "^1.0.0-rc.3",
