@@ -11,6 +11,39 @@ const Article = styled.article`
   max-width: 680px;
 `
 
+const Section = styled.section`
+  color: ${p => p.theme.color.mainFont};
+  h3 {
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+
+  h4 {
+    margin-top: 40px;
+  }
+
+  p {
+    margin-top: 18px;
+  }
+
+  li {
+    margin-top: 18px;
+  }
+
+  figcaption {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: -20px;
+    justify-content: center;
+  }
+
+  .gatsby-resp-image-wrapper {
+    margin-bottom: 40px;
+  }
+`
+
 const BlogPostTemplate = ({ data }) => {
   const post = data.markdownRemark
   return (
@@ -21,7 +54,7 @@ const BlogPostTemplate = ({ data }) => {
           title={post.frontmatter.title}
         />
         <Article>
-          <section dangerouslySetInnerHTML={{ __html: post.html }} />
+          <Section dangerouslySetInnerHTML={{ __html: post.html }} />
         </Article>
       </Page>
     </Layout>
