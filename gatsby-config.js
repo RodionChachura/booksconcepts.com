@@ -76,7 +76,7 @@ module.exports = {
       resolve: "gatsby-plugin-web-font-loader",
       options: {
         custom: {
-          families: ["SourceSerifPro"],
+          families: ["Montserrat"],
           urls: ["/fonts/fonts.css"],
         },
       },

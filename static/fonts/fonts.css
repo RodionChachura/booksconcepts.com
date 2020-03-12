@@ -1,10 +1,23 @@
 @font-face {
-  font-family: "SourceSerifPro";
-  src: url("SourceSerifPro-Bold.ttf");
+  font-family: "Montserrat";
+  src: url("Montserrat-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("Montserrat-Bold.ttf");
   font-weight: bold;
 }
 
 @font-face {
-  font-family: "SourceSerifPro";
-  src: url("SourceSerifPro-Regular.ttf");
+  font-family: "Montserrat";
+  src: url("Montserrat-Italic.ttf.ttf");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("Montserrat-BoldItalic.ttf.ttf.ttf");
+  font-weight: bold;
+  font-style: italic;
 }
