@@ -65,6 +65,12 @@ const PromoText = styled.p`
 const AuthorLink = styled.a`
   text-decoration: none;
   color: ${p => p.theme.color.primaryFont};
+  transition: ${p => p.theme.transition.default};
+  border-bottom: 2px solid ${p => p.theme.color.primaryFont};
+  :hover {
+    color: ${p => p.theme.color.actionFont};
+    border-color: ${p => p.theme.color.actionFont};
+  }
 `
 
 const BlogIndex = ({ data }) => {
