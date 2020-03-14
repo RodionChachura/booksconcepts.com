@@ -10,7 +10,7 @@ const Container = styled.div`
 `
 
 const Logo = styled(Link)`
-  color: ${p => p.theme.color.mainFont};
+  color: ${p => p.theme.color.mainFont} !important;
   font-weight: bold;
   font-size: 34px;
   text-decoration: none;
@@ -18,7 +18,7 @@ const Logo = styled(Link)`
   transition: 0.3s ease-in;
   ${p => p.hoverable && css`
     :hover {
-      color: ${p => p.theme.color.primaryFont};
+      color: ${p => p.theme.color.primaryFont} !important;
     }
   `}
 `

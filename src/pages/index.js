@@ -10,7 +10,6 @@ import Layout from '../components/layout'
 import { AUTHOR } from '../constants/links'
 
 const Grid = styled.div`
-  margin-top: 40px;
   width: 100%;
   grid-column-gap: 20px;
   grid-row-gap: 20px;
@@ -56,6 +55,15 @@ const Minutes = styled(Author)`
   font-weight: bold;
 `
 
+const PromoWrapper = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 160px;
+  margin-bottom: 20px;
+`
+
 const PromoText = styled.p`
   font-size: 32px;
   color: ${p => p.theme.color.mainFont};
@@ -93,8 +101,10 @@ const BlogIndex = ({ data }) => {
       <SEO title="All Books" />
       <Page>
         <Navbar indexPage/>
-        <PromoText>Key concepts from the best nonfiction books</PromoText>
-        <PromoText>curated by <AuthorLink target="_blank" href={AUTHOR}>GeekRodion</AuthorLink></PromoText>
+        <PromoWrapper>
+          <PromoText>Key concepts from the best nonfiction books</PromoText>
+          <PromoText>curated by <AuthorLink target="_blank" href={AUTHOR}>GeekRodion</AuthorLink></PromoText>
+        </PromoWrapper>
         <Grid>
           {books.map(book => (
             <Container key={book.route} to={book.route}>
