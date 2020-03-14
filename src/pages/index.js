@@ -33,6 +33,7 @@ const Container = styled(Link)`
   flex-direction: column;
   align-items: center;
   border: 2px solid transparent;
+  justify-content: space-between;
   :hover {
     background: #F1F6F4;
     border-color: ${p => p.theme.color.primaryFont};
@@ -40,6 +41,7 @@ const Container = styled(Link)`
 `
 
 const Name = styled.p`
+  text-align: center;
   font-size: 18px;
   color: ${p => p.theme.color.mainFont};
   margin: 0;
