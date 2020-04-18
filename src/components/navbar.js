@@ -1,10 +1,12 @@
-import React from "react"
+import React, { useEffect, useState } from "react"
 import styled, { css } from "styled-components"
 import { Link } from "gatsby"
+import { registerListener } from "../utils"
 
 const Placeholder = styled.div`
   width: 100%;
-  height: 80px;
+  height: ${p => p.full ? 80 : 40}px;
+  transition: height .5s;
 `
 
 const Container = styled(Placeholder)`
@@ -13,7 +15,7 @@ const Container = styled(Placeholder)`
   display: flex;
   align-items: center;
   justify-content: center;
-  background: white;
+  background: rgba(255, 255, 255, 0.5);
   z-index: 1;
 `
 
@@ -28,30 +30,34 @@ const Content = styled.div`
 `
 
 const Logo = styled(Link)`
-  color: ${p => p.theme.color.mainFont} !important;
   font-weight: bold;
   font-size: 34px;
   text-decoration: none;
-  color: black;
-  transition: 0.3s ease-in;
-  ${p => p.hoverable && css`
-    :hover {
-      color: ${p => p.theme.color.primaryFont} !important;
-    }
-  `}
+  color: ${p => p.theme.color.mainFont};
+  transition: color 0.3s ease-in, font-size .5s;
+  :hover {
+    color: ${p => p.theme.color.primaryFont};
+  }
 `
 
 export default ({ indexPage = false}) => {
+  const [fullNavbar, setFullNavbar] = useState(true)
+  useEffect(() => {
+    return registerListener('scroll', (e) => {
+      setFullNavbar(window.scrollY < 10)
+    })
+  }, [setFullNavbar])
+  console.log(fullNavbar)
   return (
     <>
-      <Container>
+      <Container full={fullNavbar}>
         <Content>
-          <Logo hoverable={!indexPage} to={`/`}>
-            BooksConcepts
+          <Logo full={fullNavbar} hoverable={!indexPage} to={`/`}>
+            {fullNavbar ? 'BooksConcepts' : 'BC'}
           </Logo>
         </Content>
       </Container>
-      <Placeholder/>
+      <Placeholder full={fullNavbar}/>
     </>
   )
 }
