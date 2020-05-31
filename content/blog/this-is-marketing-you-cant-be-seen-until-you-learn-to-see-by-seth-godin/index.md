@@ -13,7 +13,7 @@ featuredImage: './images2/this-is-marketing-you-cant-be-seen-until-you-learn-to-
 
 </figure>
 
-[Print](https://amzn.to/2SJF7Mk) | [eBook](https://amzn.to/2SH6DtM) | [Audiobook](https://amzn.to/32cLhYr)
+[Print](https://www.amazon.com/This-Marketing-Cant-Until-Learn/dp/0525540830/ref=sr_1_1?tag=booksconcepts-20) | [eBook](https://www.amazon.com/This-Marketing-Cant-Until-Learn-ebook/dp/B07D1FK2Y6/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/This-Marketing-Cant-Until-Learn/dp/B07JZFJFKC/ref=tmm_aud_swatch_0?tag=booksconcepts-20)
 
 ### Not Mass, Not Spam, Not Shameful…
 

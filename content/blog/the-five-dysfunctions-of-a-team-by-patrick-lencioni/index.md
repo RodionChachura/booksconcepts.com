@@ -13,7 +13,7 @@ featuredImage: './images2/the-five-dysfunctions-of-a-team-by-patrick-lencioni-0.
 
 </figure>
 
-[Print](https://amzn.to/32a14ap) | [eBook](https://amzn.to/38V5a8Z) | [Audiobook](https://amzn.to/32fR0N8)
+[Print](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Lencioni-ebook-dp-B006960LQW/dp/B006960LQW/ref=mt_kindle?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/B000079XXR/ref=sr_1_1?tag=booksconcepts-20)
 
 #### An overview of the model
 

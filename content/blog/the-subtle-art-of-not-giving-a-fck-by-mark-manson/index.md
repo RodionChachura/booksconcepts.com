@@ -13,7 +13,7 @@ featuredImage: './images2/the-subtle-art-of-not-giving-a-fck-by-mark-manson-0.jp
 
 </figure>
 
-[Print](https://amzn.to/38Qc27y) | [eBook](https://amzn.to/3bVoyUT) | [Audiobook](https://amzn.to/2P6VBeT)
+[Print](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457721/ref=tmm_pap_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive-ebook/dp/B019MMUA8S/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/B01I29Y344/ref=sr_1_1?tag=booksconcepts-20)
 
 ### Chapter 1. Don’t Try
 

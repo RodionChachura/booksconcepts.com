@@ -13,7 +13,7 @@ featuredImage: './images2/the-obstacle-is-the-way-by-ryan-holiday-0.jpg'
 
 </figure>
 
-[Print](https://amzn.to/2vSMZ4M) | [eBook](https://amzn.to/2HHzTdo) | [Audiobook](https://amzn.to/39O3A8M)
+[Print](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph-ebook/dp/B00G3L1B8K/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/B00K5JUNSU/ref=sr_1_1?tag=booksconcepts-20)
 
 ### INTRODUCTION
 

@@ -13,7 +13,7 @@ featuredImage: './images2/deep-work-by-cal-newport-0.jpg'
 
 </figure>
 
-[Print](https://amzn.to/2SGoPUa) | [eBook](https://amzn.to/329u9m6) | [Audiobook](https://amzn.to/2SLf873)
+[Print](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B013UWFM52/ref=sr_1_1?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/B01CYKUC9C/ref=tmm_aud_swatch_0?tag=booksconcepts-20)
 
 #### Introduction
 

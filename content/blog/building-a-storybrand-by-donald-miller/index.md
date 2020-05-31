@@ -13,7 +13,7 @@ featuredImage: './images2/building-a-storybrand-by-donald-miller-0.jpg'
 
 </figure>
 
-[Print](https://amzn.to/2SXHAkY) | [eBook](https://amzn.to/2V9gday) | [Audiobook](https://amzn.to/2HEbXYr)
+[Print](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers-ebook/dp/B06XFJ2JGR/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/B072J8WRND/ref=sr_1_1?tag=booksconcepts-20)
 
 ### WHY MOST MARKETING IS A MONEY PIT
 

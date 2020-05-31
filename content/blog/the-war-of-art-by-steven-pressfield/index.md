@@ -13,7 +13,7 @@ featuredImage: './images2/the-war-of-art-by-steven-pressfield-0.jpg'
 
 </figure>
 
-[Print](https://amzn.to/2HCOG9i) | [eBook](https://amzn.to/2P6XgRF) | [Audiobook](https://amzn.to/2v0RM4g)
+[Print](https://www.amazon.com/War-Art-Winning-Creative-Battle/dp/1590710037/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/The-War-of-Art/dp/B07PTBYH2G/ref=sr_1_1?tag=booksconcepts-20)
 
 Most of us have two lives. The life we live, and the unlived life within us. Between the two stands **Resistance**.
 

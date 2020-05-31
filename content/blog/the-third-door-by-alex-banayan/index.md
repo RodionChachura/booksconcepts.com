@@ -13,7 +13,7 @@ featuredImage: './images2/the-third-door-by-alex-banayan-0.jpg'
 
 </figure>
 
-[Print](https://amzn.to/2vP1O8N) | [eBook](https://amzn.to/2HHqliM) | [Audiobook](https://amzn.to/38JI0C1)
+[Print](https://www.amazon.com/Third-Door-Uncover-Successful-Launched/dp/0804136661/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Third-Door-Uncover-Successful-Launched-ebook/dp/B076NS2JSW/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Third-Door-Uncover-Successful-Launched/dp/B07D8Z4NBC/ref=sr_1_1?tag=booksconcepts-20)
 
 ### STEP 1: DITCH THE LINE
 

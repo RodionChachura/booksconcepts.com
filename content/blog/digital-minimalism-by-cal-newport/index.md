@@ -13,7 +13,7 @@ featuredImage: './images2/digital-minimalism-by-cal-newport-0.jpg'
 
 </figure>
 
-[Print](https://amzn.to/38KAeYQ) | [eBook](https://amzn.to/38F1pnP) | [Audiobook](https://amzn.to/37I9Opa)
+[Print](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Digital-Minimalism-Living-Better-Technology-ebook/dp/B07D1G6DTF/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/B07LGDY5PC/ref=sr_1_1?tag=booksconcepts-20)
 
 ### Introduction
 

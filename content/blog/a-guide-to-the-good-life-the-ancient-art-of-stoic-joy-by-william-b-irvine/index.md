@@ -13,7 +13,7 @@ featuredImage: './images2/a-guide-to-the-good-life-the-ancient-art-of-stoic-joy-
 
 </figure>
 
-[Print](https://amzn.to/32bWQyK) | [eBook](https://amzn.to/38Ld8Bp) | [Audiobook](https://amzn.to/2SJBCpa)
+[Print](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic-dp-0195374614/dp/0195374614/ref=mt_hardcover?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic-ebook/dp/B0040JHNQG/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/B00G6WCGKI/ref=sr_1_1?tag=booksconcepts-20)
 
 ### Introduction. A Plan for Living.
 

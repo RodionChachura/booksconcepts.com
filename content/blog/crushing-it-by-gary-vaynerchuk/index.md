@@ -13,7 +13,7 @@ featuredImage: './images2/crushing-it-by-gary-vaynerchuk-0.jpg'
 
 </figure>
 
-[Print](https://amzn.to/328Up04) | [eBook](https://amzn.to/37CtoDm) | [Audiobook](https://amzn.to/38MMpV8)
+[Print](https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence/dp/0062674676/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence-ebook/dp/B072DV2GHG/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence/dp/B077MPRHKJ/ref=sr_1_1?tag=booksconcepts-20)
 
 ### Introduction
 

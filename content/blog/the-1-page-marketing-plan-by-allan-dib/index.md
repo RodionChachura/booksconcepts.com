@@ -13,7 +13,7 @@ featuredImage: './images2/the-1-page-marketing-plan-by-allan-dib-0.jpg'
 
 </figure>
 
-[Print](https://amzn.to/3bPBc82) | [eBook](https://amzn.to/2STj6cs) | [Audiobook](https://amzn.to/38LlSr0)
+[Print](https://www.amazon.com/1-Page-Marketing-Plan-Customers-Money/dp/1989025013/ref=tmm_pap_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/1-Page-Marketing-Plan-Customers-Money-ebook/dp/B01B35M3SM/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/1-Page-Marketing-Plan-Customers-Money/dp/B01KOQWSNQ/ref=sr_1_1?tag=booksconcepts-20)
 
 ### INTRODUCTION
 

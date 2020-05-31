@@ -13,7 +13,7 @@ featuredImage: './images2/atomic-habits-by-james-clear-0.jpg'
 
 </figure>
 
-[Print](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=sr_1_1?tag=increaser0a-20) | [eBook](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/ref=tmm_kin_swatch_0?tag=increaser0a-20) | [Audiobook](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07J1PMF1H/ref=tmm_aud_swatch_0?tag=increaser0a-20)
+[Print](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=sr_1_1?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B07J1PMF1H/ref=tmm_aud_swatch_0?tag=booksconcepts-20)
 
 #### INTRODUCTION
 

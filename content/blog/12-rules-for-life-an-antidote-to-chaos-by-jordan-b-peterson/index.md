@@ -13,7 +13,7 @@ featuredImage: './images2/12-rules-for-life-an-antidote-to-chaos-by-jordan-b-pet
 
 </figure>
 
-[Print](https://amzn.to/2wpK2sP) | [eBook](https://amzn.to/2HFurrB) | [Audiobook](https://amzn.to/2wAEI6h)
+[Print](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/12-Rules-Life-Antidote-Chaos-ebook/dp/B01FPGY5T0/ref=sr_1_1?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/B078Y92T7K/ref=tmm_aud_swatch_0?tag=booksconcepts-20)
 
 ### RULE 1: STAND UP STRAIGHT WITH YOUR SHOULDERS BACK
 
