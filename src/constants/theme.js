@@ -1,5 +1,6 @@
 export const THEME = {
   color: {
+    background: '#fff',
     mainFont: '#03314b',
     secondaryFont: '#6d787e',
     reversedFont: '#fff',

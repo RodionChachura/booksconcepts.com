@@ -4,7 +4,7 @@ import { Container, Logo, Button } from './styles'
 import { NAME } from '../../../constants/generic'
 import { APP_URL } from '../../../constants/links'
 
-const Header = ({ }) => {
+const Header = () => {
   const linkParams = {
     target: "_blank",
     rel: "noopener noreferrer",
