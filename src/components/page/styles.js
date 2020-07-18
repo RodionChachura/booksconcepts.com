@@ -1,14 +1,13 @@
-import React from "react"
 import styled from "styled-components"
 
-const Container = styled.div`
+export const Container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
 `
 
-const Wrapper = styled.div`
+export const Wrapper = styled.div`
   width: 1320px;
   display: flex;
   flex-direction: column;
@@ -20,11 +19,3 @@ const Wrapper = styled.div`
     padding: 0 20px;
   }
 `
-
-export default ({ children }) => (
-  <Container>
-    <Wrapper>
-      {children}
-    </Wrapper>
-  </Container>
-)

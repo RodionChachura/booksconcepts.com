@@ -69,7 +69,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-
     {
       resolve: "gatsby-plugin-sentry",
       options: {
@@ -79,17 +78,15 @@ module.exports = {
       }
     },
     {
-      resolve: "gatsby-plugin-web-font-loader",
+      resolve: `gatsby-plugin-google-fonts`,
       options: {
-        custom: {
-          families: ["Montserrat"],
-          urls: ["/fonts/fonts.css"],
-        },
-      },
+        fonts: [
+          `montserrat`,
+        ],
+        display: 'swap'
+      }
     },
-    `gatsby-plugin-styled-components`
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-styled-components`,
+    `gatsby-plugin-offline`,
   ],
 }
