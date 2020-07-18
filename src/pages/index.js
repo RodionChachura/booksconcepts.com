@@ -2,6 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Img from 'gatsby-image'
 import styled from "styled-components"
+
 import SEO from "../components/seo"
 import Page from '../components/page'
 import Navbar from "../components/navbar"
