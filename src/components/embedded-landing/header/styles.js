@@ -11,6 +11,9 @@ export const Container = styled.div`
 
 export const Logo = styled.a`
   ${logoStyle};
+  @media(max-width: 560px) {
+    font-size: 22px;
+  }
 `
 
 export const Button = styled.a`

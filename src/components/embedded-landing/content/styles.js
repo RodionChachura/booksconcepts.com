@@ -8,9 +8,12 @@ export const Container = styled.div`
   justify-content: center;
 `
 
-export const Text = styled.p`
+export const Text = styled.h1`
   font-size: 32px;
   color: ${p => p.theme.color.mainFont};
   font-weight: bold;
   text-align: center;
+  @media(max-width: 680px) {
+    font-size: 22px;
+  }
 `
