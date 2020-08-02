@@ -11,6 +11,7 @@ export const Container = styled.div`
 
 export const Logo = styled.a`
   ${logoStyle};
+  line-height: 1.5em;
   @media(max-width: 560px) {
     font-size: 22px;
   }
