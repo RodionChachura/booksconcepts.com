@@ -4,11 +4,11 @@ import Header from './header'
 import Content from './content'
 import { Container } from './styles'
 
-const EmbeddedLanding = () => {
+const EmbeddedLanding = (props) => {
   return (
     <Container>
       <Header/>
-      <Content/>
+      <Content {...props} />
     </Container>
   )
 }

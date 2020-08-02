@@ -4,6 +4,7 @@ export const Container = styled.div`
   width: 100%;
   flex: 1;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 `
@@ -16,4 +17,5 @@ export const Text = styled.h1`
   @media(max-width: 680px) {
     font-size: 22px;
   }
+  margin: 20px 0;
 `
