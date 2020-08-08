@@ -1,5 +1,5 @@
 ---
-minutes: 15.32
+minutes: 15.295
 title: "Building a StoryBrand by Donald Miller"
 keywords: [Marketing,Donald Miller,Reading,Book Review]
 featuredImage: './images2/building-a-storybrand-by-donald-miller-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/building-a-storybrand-by-donald-miller-0.jpg'
 ![](/images2/building-a-storybrand-by-donald-miller-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers-ebook/dp/B06XFJ2JGR/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/B072J8WRND/ref=sr_1_1?tag=booksconcepts-20)
 
 ### WHY MOST MARKETING IS A MONEY PIT
 

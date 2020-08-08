@@ -71,6 +71,7 @@ const PromoText = styled.p`
   font-size: 32px;
   color: ${p => p.theme.color.mainFont};
   font-weight: bold;
+  text-align: center;
 `
 
 const AuthorLink = styled.a`

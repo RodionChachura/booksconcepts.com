@@ -1,5 +1,5 @@
 ---
-minutes: 4.205
+minutes: 4.18
 title: "Key concepts of the book “The Five Disfunctions of a Team”"
 keywords: [Leadership,Books,Reading]
 featuredImage: './images2/the-five-dysfunctions-of-a-team-by-patrick-lencioni-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/the-five-dysfunctions-of-a-team-by-patrick-lencioni-0.
 ![](/images2/the-five-dysfunctions-of-a-team-by-patrick-lencioni-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Lencioni-ebook-dp-B006960LQW/dp/B006960LQW/ref=mt_kindle?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/B000079XXR/ref=sr_1_1?tag=booksconcepts-20)
 
 #### An overview of the model
 

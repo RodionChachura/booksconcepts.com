@@ -1,5 +1,5 @@
 ---
-minutes: 8.79
+minutes: 8.765
 title: "“The Subtle Art of Not Giving a F*ck” by Mark Manson"
 keywords: [Self Improvement,Reading,Mark Manson,Book Summary]
 featuredImage: './images2/the-subtle-art-of-not-giving-a-fck-by-mark-manson-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/the-subtle-art-of-not-giving-a-fck-by-mark-manson-0.jp
 ![](/images2/the-subtle-art-of-not-giving-a-fck-by-mark-manson-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457721/ref=tmm_pap_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive-ebook/dp/B019MMUA8S/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/B01I29Y344/ref=sr_1_1?tag=booksconcepts-20)
 
 ### Chapter 1. Don’t Try
 

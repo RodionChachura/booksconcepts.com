@@ -1,5 +1,5 @@
 ---
-minutes: 16.015
+minutes: 15.99
 title: "“This Is Marketing: You Can’t Be Seen Until You Learn to See” by Seth Godin"
 keywords: [Entrepreneurship,Marketing,Seth Godin,Books,Reading]
 featuredImage: './images2/this-is-marketing-you-cant-be-seen-until-you-learn-to-see-by-seth-godin-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/this-is-marketing-you-cant-be-seen-until-you-learn-to-
 ![](/images2/this-is-marketing-you-cant-be-seen-until-you-learn-to-see-by-seth-godin-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/This-Marketing-Cant-Until-Learn/dp/0525540830/ref=sr_1_1?tag=booksconcepts-20) | [eBook](https://www.amazon.com/This-Marketing-Cant-Until-Learn-ebook/dp/B07D1FK2Y6/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/This-Marketing-Cant-Until-Learn/dp/B07JZFJFKC/ref=tmm_aud_swatch_0?tag=booksconcepts-20)
 
 ### Not Mass, Not Spam, Not Shameful…
 

@@ -1,5 +1,5 @@
 ---
-minutes: 20.81
+minutes: 20.785
 title: "The 50th Law"
 keywords: [Self Improvement,Reading,Robert Greene,50 Cent,Power]
 featuredImage: './images2/the-50th-law-by-50-cent-and-robert-greene-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/the-50th-law-by-50-cent-and-robert-greene-0.jpg'
 ![](/images2/the-50th-law-by-50-cent-and-robert-greene-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/50th-Law-Robert-Greene-Collection/dp/1846680794/ref=tmm_pap_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/50th-Robert-Greene-Collection-Book-ebook/dp/B002RI9ZQI/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/The-50th-Law/dp/B002OFDGLE/ref=sr_1_1?tag=booksconcepts-20)
 
 ### Foreword
 

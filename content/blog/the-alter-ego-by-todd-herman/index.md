@@ -1,5 +1,5 @@
 ---
-minutes: 18.89
+minutes: 18.865
 title: "“The Alter Ego” by Todd Herman"
 keywords: [Self Improvement,Alter Ego,Books,Reading,Summary]
 featuredImage: './images2/the-alter-ego-by-todd-herman-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/the-alter-ego-by-todd-herman-0.jpg'
 ![](/images2/the-alter-ego-by-todd-herman-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Alter-Ego-Effect-Identities-Transform/dp/0062838636/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Alter-Ego-Effect-Identities-Transform-ebook/dp/B075WPWMSK/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Alter-Ego-Effect-Defeat-Kicking/dp/B07J1LB6H8/ref=sr_1_1?tag=booksconcepts-20)
 
 ### The Power of the Alter Ego Effect
 

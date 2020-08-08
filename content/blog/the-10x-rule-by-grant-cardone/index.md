@@ -1,5 +1,5 @@
 ---
-minutes: 14.395
+minutes: 14.37
 title: "The 10X Rule by Grant Cardone"
 keywords: []
 featuredImage: './images2/the-10x-rule-by-grant-cardone-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/the-10x-rule-by-grant-cardone-0.jpg'
 ![](/images2/the-10x-rule-by-grant-cardone-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/0470627603/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/10X-Rule-Difference-Between-Success-ebook/dp/B004X75OES/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/10X-Rule-Difference-Between-Success/dp/B005DGW34C/ref=sr_1_1?tag=booksconcepts-20)
 
 #### Introduction
 

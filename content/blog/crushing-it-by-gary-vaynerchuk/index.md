@@ -1,5 +1,5 @@
 ---
-minutes: 8.905
+minutes: 8.88
 title: "Crushing It! by Gary Vaynerchuk"
 keywords: [Social Media,Personal Brand,Reading,Success,Gary Vaynerchuk]
 featuredImage: './images2/crushing-it-by-gary-vaynerchuk-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/crushing-it-by-gary-vaynerchuk-0.jpg'
 ![](/images2/crushing-it-by-gary-vaynerchuk-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence/dp/0062674676/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence-ebook/dp/B072DV2GHG/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence/dp/B077MPRHKJ/ref=sr_1_1?tag=booksconcepts-20)
 
 ### Introduction
 

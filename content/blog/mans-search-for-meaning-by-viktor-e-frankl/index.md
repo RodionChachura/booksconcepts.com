@@ -1,5 +1,5 @@
 ---
-minutes: 13.905
+minutes: 13.88
 title: "“Man’s Search for Meaning” by Viktor E. Frankl"
 keywords: [Life,Meaning Of Life,Victor Frankl,Suffering,Reading]
 featuredImage: './images2/mans-search-for-meaning-by-viktor-e-frankl-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/mans-search-for-meaning-by-viktor-e-frankl-0.jpg'
 ![](/images2/mans-search-for-meaning-by-viktor-e-frankl-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Search-Meaning-Classic-Tribute-Holocaust/dp/1846042844/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Mans-Search-Meaning-classic-Holocaust-ebook/dp/B00EKOC0HI/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Blackstone-Audio-Inc-Search-Meaning/dp/B0006IU470/ref=sr_1_1?tag=booksconcepts-20)
 
 ### Preface
 

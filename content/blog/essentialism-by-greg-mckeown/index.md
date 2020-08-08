@@ -1,5 +1,5 @@
 ---
-minutes: 12.68
+minutes: 12.655
 title: "“Essentialism” by Greg McKeown"
 keywords: [Self Improvement,Essentialism,Books,Reading]
 featuredImage: './images2/essentialism-by-greg-mckeown-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/essentialism-by-greg-mckeown-0.jpg'
 ![](/images2/essentialism-by-greg-mckeown-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382/ref=sr_1_1?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00HELB6XI/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Less/dp/B017TDXIJA/ref=tmm_aud_swatch_0?tag=booksconcepts-20)
 
 ### The Essentialist
 

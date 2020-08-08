@@ -1,5 +1,5 @@
 ---
-minutes: 3.885
+minutes: 3.86
 title: "“The Compound Effect” by Darren Hardy"
 keywords: [Self Improvement,Books,Book Review]
 featuredImage: './images2/the-compound-effect-by-darren-hardy-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/the-compound-effect-by-darren-hardy-0.jpg'
 ![](/images2/the-compound-effect-by-darren-hardy-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/gp/product/159315724X/ref=as_li_tl?tag=booksconcepts-20) | [eBook](https://www.amazon.com/gp/product/B005P1YCNK/ref=as_li_qf_asin_il_tl?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/gp/product/B07MWCVQ1T/ref=as_li_qf_asin_il_tl?tag=booksconcepts-20)
 
 #### Chapter 1: THE COMPOUND EFFECT IN ACTION
 

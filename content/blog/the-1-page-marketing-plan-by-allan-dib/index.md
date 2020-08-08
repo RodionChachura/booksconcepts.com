@@ -1,5 +1,5 @@
 ---
-minutes: 30.22
+minutes: 30.195
 title: "“The 1-Page Marketing Plan” by Allan Dib"
 keywords: [Marketing,Marketing Plan]
 featuredImage: './images2/the-1-page-marketing-plan-by-allan-dib-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/the-1-page-marketing-plan-by-allan-dib-0.jpg'
 ![](/images2/the-1-page-marketing-plan-by-allan-dib-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/1-Page-Marketing-Plan-Customers-Money/dp/1989025013/ref=tmm_pap_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/1-Page-Marketing-Plan-Customers-Money-ebook/dp/B01B35M3SM/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/1-Page-Marketing-Plan-Customers-Money/dp/B01KOQWSNQ/ref=sr_1_1?tag=booksconcepts-20)
 
 ### INTRODUCTION
 

@@ -1,5 +1,5 @@
 ---
-minutes: 12.815
+minutes: 12.79
 title: "“Obviously Awesome” by April Dunford"
 keywords: [Product Positioning,Positioning,Product Management,Marketing]
 featuredImage: './images2/obviously-awesome-by-april-dunford-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/obviously-awesome-by-april-dunford-0.jpg'
 ![](/images2/obviously-awesome-by-april-dunford-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Obviously-Awesome-Product-Positioning-Customers/dp/1999023005/ref=tmm_pap_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Obviously-Awesome-Product-Positioning-Customers-ebook/dp/B07PPW5V9C/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Obviously-Awesome-Product-Positioning-Customers/dp/B085LBDHTX/ref=sr_1_1?tag=booksconcepts-20)
 
 #### INTRODUCTION
 

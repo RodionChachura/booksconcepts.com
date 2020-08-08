@@ -1,5 +1,5 @@
 ---
-minutes: 2.64
+minutes: 2.615
 title: "“As a Man Thinketh” by James Allen"
 keywords: [Self Improvement,Books]
 featuredImage: './images2/as-a-man-thinketh-by-james-allen-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/as-a-man-thinketh-by-james-allen-0.jpg'
 ![](/images2/as-a-man-thinketh-by-james-allen-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/gp/product/164032013X/ref=as_li_qf_asin_il_tl?tag=booksconcepts-20) | [eBook](https://www.amazon.com/As-Man-Thinketh-James-Allen-ebook/dp/B06X17NQLZ/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/As-a-Man-Thinketh/dp/B083J845VB/ref=tmm_aud_swatch_0?tag=booksconcepts-20)
 
 #### THOUGHT AND CHARACTER
 

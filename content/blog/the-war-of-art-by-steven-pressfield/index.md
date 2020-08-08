@@ -1,5 +1,5 @@
 ---
-minutes: 12.39
+minutes: 12.365
 title: "“The War of Art” by Steven Pressfield"
 keywords: [Creativity,Self Improvement,Steven Pressfield,Book Summary,Reading]
 featuredImage: './images2/the-war-of-art-by-steven-pressfield-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/the-war-of-art-by-steven-pressfield-0.jpg'
 ![](/images2/the-war-of-art-by-steven-pressfield-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/War-Art-Winning-Creative-Battle/dp/1590710037/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/The-War-of-Art/dp/B07PTBYH2G/ref=sr_1_1?tag=booksconcepts-20)
 
 Most of us have two lives. The life we live, and the unlived life within us. Between the two stands **Resistance**.
 

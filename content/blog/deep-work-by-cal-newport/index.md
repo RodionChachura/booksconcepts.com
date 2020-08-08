@@ -1,5 +1,5 @@
 ---
-minutes: 5.45
+minutes: 5.425
 title: "Key concepts of the book “Deep Work”"
 keywords: [Productivity,Books,Reading]
 featuredImage: './images2/deep-work-by-cal-newport-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/deep-work-by-cal-newport-0.jpg'
 ![](/images2/deep-work-by-cal-newport-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B013UWFM52/ref=sr_1_1?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/B01CYKUC9C/ref=tmm_aud_swatch_0?tag=booksconcepts-20)
 
 #### Introduction
 

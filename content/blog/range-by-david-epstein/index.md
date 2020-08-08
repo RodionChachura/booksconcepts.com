@@ -1,5 +1,5 @@
 ---
-minutes: 11.245
+minutes: 11.22
 title: "“Range” by David Epstein"
 keywords: [Range,David Epstein,Specialization,Polymath,Careers]
 featuredImage: './images2/range-by-david-epstein-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/range-by-david-epstein-0.jpg'
 ![](/images2/range-by-david-epstein-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/1509843493?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Range-David-Epstein-audiobook/dp/B07PCR5DHY/ref=tmm_aud_swatch_0?tag=booksconcepts-20)
 
 #### The Cult of the Head Start
 

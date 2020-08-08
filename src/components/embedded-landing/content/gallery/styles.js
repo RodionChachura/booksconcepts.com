@@ -37,9 +37,8 @@ export const ImgWrapper = styled.a`
   border-radius: 5px;
   overflow: hidden;
   transition: ${p => p.theme.transition.default};
-  box-shadow: 0 4px 8px rgba(0,0,0,0.19);
-  border: 2px solid transparent;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.19);
   :hover {
-    border-color: ${p => p.theme.color.primaryFont};
+    box-shadow: 0 8px 16px rgba(0,0,0,0.19);
   }
 `

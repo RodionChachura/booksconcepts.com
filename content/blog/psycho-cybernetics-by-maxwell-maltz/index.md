@@ -1,5 +1,5 @@
 ---
-minutes: 11.555
+minutes: 11.53
 title: "“Psycho Cybernetics” by Maxwell Maltz"
 keywords: [Self Improvement,Mindset,Reading,Books]
 featuredImage: './images2/psycho-cybernetics-by-maxwell-maltz-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/psycho-cybernetics-by-maxwell-maltz-0.jpg'
 ![](/images2/psycho-cybernetics-by-maxwell-maltz-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Psycho-Cybernetics-Updated-Expanded-Maxwell-Maltz/dp/0399176136/ref=tmm_pap_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Psycho-Cybernetics-Updated-Expanded-Maxwell-Maltz-ebook/dp/B00SI02BW4/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Psycho-Cybernetics-Updated-and-Expanded/dp/B06XRJZN8Q/ref=tmm_aud_swatch_0?tag=booksconcepts-20)
 
 #### The Self Image: Your Key to a Better Life
 

@@ -20,7 +20,9 @@ const Section = styled.section`
   }
 
   h4 {
+    font-weight: bold;
     margin-top: 24px;
+    font-size: 24px;
   }
 
   p, li {

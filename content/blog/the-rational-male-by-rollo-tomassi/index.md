@@ -1,5 +1,5 @@
 ---
-minutes: 14.385
+minutes: 14.36
 title: "“The Rational Male” by Rollo Tomassi"
 keywords: [Positive Masculinity,Reading,Self Improvement,Books,Masculinity]
 featuredImage: './images2/the-rational-male-by-rollo-tomassi-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/the-rational-male-by-rollo-tomassi-0.jpg'
 ![](/images2/the-rational-male-by-rollo-tomassi-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Rational-Male-Rollo-Tomassi-dp-1492777862/dp/1492777862/ref=mt_paperback?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Rational-Male-Rollo-Tomassi-ebook/dp/B00FK901R8/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/The-Rational-Male/dp/B01E61AYRM/ref=sr_1_1?tag=booksconcepts-20)
 
 ### The Basics
 

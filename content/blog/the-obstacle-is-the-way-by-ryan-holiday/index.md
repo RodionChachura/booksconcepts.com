@@ -1,5 +1,5 @@
 ---
-minutes: 14.275
+minutes: 14.25
 title: "“The Obstacle Is the Way” by Ryan Holiday"
 keywords: [Self Improvement,Ryan Holiday,The Obstacle Is The Way,Stoicism,Books]
 featuredImage: './images2/the-obstacle-is-the-way-by-ryan-holiday-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/the-obstacle-is-the-way-by-ryan-holiday-0.jpg'
 ![](/images2/the-obstacle-is-the-way-by-ryan-holiday-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph-ebook/dp/B00G3L1B8K/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/B00K5JUNSU/ref=sr_1_1?tag=booksconcepts-20)
 
 ### INTRODUCTION
 

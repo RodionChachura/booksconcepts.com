@@ -17,5 +17,5 @@ export const Text = styled.h1`
   @media(max-width: 680px) {
     font-size: 22px;
   }
-  margin: 20px 0;
+  margin: 40px 0 20px 0;
 `

@@ -1,5 +1,5 @@
 ---
-minutes: 8.795
+minutes: 8.78
 title: "“The Passion Paradox” by Brad Stulberg and Steve Magness"
 keywords: [Self Improvement,Passion,Books,Reading,Book Summary]
 featuredImage: './images2/the-passion-paradox-by-brad-stulberg-and-steve-magness-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/the-passion-paradox-by-brad-stulberg-and-steve-magness
 ![](/images2/the-passion-paradox-by-brad-stulberg-and-steve-magness-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Passion-Paradox-Stulberg-Steve-Magness/dp/0593138791/ref=tmm_pap_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Passion-Paradox-Discovering-Benefits-Unbalanced-ebook/dp/B07DZJY37P/ref=tmm_kin_swatch_0?tag=booksconcepts-20)
 
 ### Why a Book About Passion
 

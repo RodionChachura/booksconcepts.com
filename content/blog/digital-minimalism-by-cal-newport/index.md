@@ -1,5 +1,5 @@
 ---
-minutes: 15.99
+minutes: 15.965
 title: "“Digital Minimalism” by Cal Newport"
 keywords: [Social Media,Digital Minimalism,Cal Newport,Reading,Summary]
 featuredImage: './images2/digital-minimalism-by-cal-newport-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/digital-minimalism-by-cal-newport-0.jpg'
 ![](/images2/digital-minimalism-by-cal-newport-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Digital-Minimalism-Living-Better-Technology-ebook/dp/B07D1G6DTF/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/B07LGDY5PC/ref=sr_1_1?tag=booksconcepts-20)
 
 ### Introduction
 

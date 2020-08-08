@@ -1,5 +1,5 @@
 ---
-minutes: 42.885
+minutes: 42.86
 title: "“UNSCRIPTED by MJ DeMarco"
 keywords: [Unscripted,Finance,Enterpreneurship,Financial Freedom,Business]
 featuredImage: './images2/unscripted-by-mj-demarco-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/unscripted-by-mj-demarco-0.jpg'
 ![](/images2/unscripted-by-mj-demarco-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/UNSCRIPTED-Life-Liberty-Pursuit-Entrepreneurship/dp/0984358161/ref=tmm_pap_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/UNSCRIPTED-Life-Liberty-Pursuit-Entrepreneurship-ebook/dp/B06XBRLXJC/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Unscripted-Life-Liberty-Pursuit-Entrepreneurship/dp/B072FL3BGP/ref=sr_1_1?tag=booksconcepts-20)
 
 #### INTRODUCTION
 

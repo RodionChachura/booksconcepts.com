@@ -1,5 +1,5 @@
 ---
-minutes: 23.45
+minutes: 23.425
 title: "“The Millionaire Fastlane” by MJ DeMarco"
 keywords: [Financial Freedom,Fastlane,Business,Reading,Success]
 featuredImage: './images2/the-millionaire-fastlane-by-mj-demarco-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/the-millionaire-fastlane-by-mj-demarco-0.jpg'
 ![](/images2/the-millionaire-fastlane-by-mj-demarco-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102/ref=tmm_pap_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime-ebook/dp/B004BDOUAI/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/B0146TGBZ8/ref=sr_1_1?tag=booksconcepts-20)
 
 ### Wealth in a Wheelchair… “Get Rich Slow” is Get Rich Old
 

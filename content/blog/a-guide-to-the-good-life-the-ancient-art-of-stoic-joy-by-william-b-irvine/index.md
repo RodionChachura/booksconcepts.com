@@ -1,5 +1,5 @@
 ---
-minutes: 14.475
+minutes: 14.45
 title: "“A Guide To The Good Life: The Ancient Art Of Stoic Joy” by William B. Irvine"
 keywords: [Stoicism,Philosophy,Reading,Summary,Books]
 featuredImage: './images2/a-guide-to-the-good-life-the-ancient-art-of-stoic-joy-by-william-b-irvine-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/a-guide-to-the-good-life-the-ancient-art-of-stoic-joy-
 ![](/images2/a-guide-to-the-good-life-the-ancient-art-of-stoic-joy-by-william-b-irvine-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic-dp-0195374614/dp/0195374614/ref=mt_hardcover?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic-ebook/dp/B0040JHNQG/ref=tmm_kin_swatch_0?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/B00G6WCGKI/ref=sr_1_1?tag=booksconcepts-20)
 
 ### Introduction. A Plan for Living.
 

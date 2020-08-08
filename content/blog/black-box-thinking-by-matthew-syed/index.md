@@ -1,5 +1,5 @@
 ---
-minutes: 4.43
+minutes: 4.405
 title: "Key concepts of the book “Black Box Thinking”"
 keywords: [Self Improvement,Reading,Books]
 featuredImage: './images2/black-box-thinking-by-matthew-syed-0.jpg'
@@ -12,8 +12,6 @@ featuredImage: './images2/black-box-thinking-by-matthew-syed-0.jpg'
 ![](/images2/black-box-thinking-by-matthew-syed-0.jpg)
 
 </figure>
-
-[Print](https://www.amazon.com/Black-Box-Thinking-People-Mistakes-But/dp/1591848229/ref=tmm_hrd_swatch_0?tag=booksconcepts-20) | [eBook](https://www.amazon.com/Black-Box-Thinking-Surprising-Success-ebook/dp/B00PW634YQ/ref=sr_1_1?tag=booksconcepts-20) | [Audiobook](https://www.amazon.com/Black-Box-Thinking-Surprising-Success/dp/B00WKJV92M/ref=tmm_aud_swatch_0?tag=booksconcepts-20)
 
 #### Part 1: The Logic Of Failure
 
