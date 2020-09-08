@@ -9,6 +9,7 @@ import Navbar from "../components/navbar"
 import index from '../../content/blog/index.json'
 import Layout from '../components/layout'
 import { AUTHOR } from '../constants/links'
+import { parseBookName } from '../utils'
 
 const Grid = styled.div`
   width: 100%;
@@ -89,12 +90,11 @@ const BlogIndex = ({ data }) => {
   const nodes = data.allMarkdownRemark.edges.map(e => e.node)
   const books = index.books.map(({ name, route }) => {
     const { frontmatter: { featuredImage, minutes }, fields: { slug }} = nodes.find(n => n.fields.slug.split('/').join('') === route)
-    const [title, author] = name.split(' by ')
-    const subtitleStart = title.indexOf(':')
+    const { title, author } = parseBookName(name)
     return {
       route: slug,
       name,
-      title: subtitleStart > 0 ? `${title.slice(0, subtitleStart)}${title.slice(title.length - 1)}` : title,
+      title,
       author,
       image: featuredImage.childImageSharp.fixed,
       minutes
@@ -102,11 +102,11 @@ const BlogIndex = ({ data }) => {
   })
   return (
     <Layout>
-      <SEO title="All Books" />
+      <SEO title="Summaries of the best nonfiction books" description={`Looking for useful book summaries? BooksConcepts shares the key ideas from ${books.length} best nonfictional books of all-time.`} />
       <Page>
         <Navbar indexPage/>
         <PromoWrapper>
-          <PromoText>Key concepts from the best nonfiction books</PromoText>
+          <PromoText>Summaries of the best nonfiction books</PromoText>
           <PromoText>curated by <AuthorLink target="_blank" href={AUTHOR}>GeekRodion</AuthorLink></PromoText>
         </PromoWrapper>
         <Grid>

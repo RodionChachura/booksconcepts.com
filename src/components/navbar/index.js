@@ -14,14 +14,14 @@ export default ({ indexPage = false}) => {
 
   return (
     <>
-      <Container full={fullNavbar}>
+      <Container fullNavbar={fullNavbar}>
         <Content>
-          <Logo full={fullNavbar} hoverable={!indexPage} to={`/`}>
+          <Logo to={`/`}>
             {fullNavbar ? NAME : 'BC'}
           </Logo>
         </Content>
       </Container>
-      <Placeholder full={fullNavbar}/>
+      <Placeholder fullNavbar={fullNavbar}/>
     </>
   )
 }

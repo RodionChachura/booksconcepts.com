@@ -6,6 +6,7 @@ import SEO from "../components/seo"
 import Page from "../components/page"
 import Navbar from "../components/navbar"
 import Layout from '../components/layout'
+import { parseBookName } from '../utils'
 
 const Article = styled.article`
   max-width: 680px;
@@ -69,12 +70,14 @@ const Section = styled.section`
 
 const BlogPostTemplate = ({ data }) => {
   const post = data.markdownRemark
+  const { title, author } = parseBookName(post.frontmatter.title)
   return (
     <Layout>
       <Page>
         <Navbar />
         <SEO
-          title={post.frontmatter.title}
+          title={`Book Summary: ${title}`}
+          description={`This is a book summary of ${title} by ${author}. Read this summary to review key ideas and lessons from the book.`}
         />
         <Article>
           <Section dangerouslySetInnerHTML={{ __html: post.html }} />
