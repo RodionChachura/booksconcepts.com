@@ -86,6 +86,12 @@ module.exports = {
         display: 'swap'
       }
     },
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://booksconcepts.com`,
+      },
+    },
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-offline`,
   ],

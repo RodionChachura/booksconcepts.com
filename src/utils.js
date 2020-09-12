@@ -8,7 +8,7 @@ export const parseBookName = (name) => {
   const subtitleStart = title.indexOf(':')
   const shortTitle = subtitleStart > 0 ? `${title.slice(0, subtitleStart)}${title.slice(title.length - 1)}` : title
   return {
-    title: shortTitle.replace('\“', '').replace('\”', ''),
+    title: shortTitle.replace('“', '').replace('”', ''),
     author
   }
 }
