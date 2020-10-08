@@ -97,5 +97,13 @@ module.exports = {
     },
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-s3`,
+      options: {
+        bucketName: 'tf-booksconcepts-frontend-prod',
+        protocol: 'https',
+        hostname: 'booksconcepts.com'
+      },
+    },
   ],
 }
