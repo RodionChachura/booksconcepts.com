@@ -13,6 +13,6 @@ export const Frame = styled.iframe`
   margin: 10px 0;
   height: 800px;
   @media(max-height: 820px) {
-    height: 98%;
+    height: calc(100vh - 100px);
   }
 `
