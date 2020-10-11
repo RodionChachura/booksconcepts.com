@@ -3,6 +3,7 @@ module.exports = {
     title: `Books Concepts`,
     author: `Rodion Chachura`,
     description: `Self-Development Books Key Concepts`,
+    siteUrl: `https://booksconcepts.com`,
   },
   plugins: [
     {
@@ -50,6 +51,12 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        exclude: [`/embedded-landing/`],
+      }
+    },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
