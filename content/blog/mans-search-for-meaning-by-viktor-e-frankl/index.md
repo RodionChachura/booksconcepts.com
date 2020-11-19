@@ -1,5 +1,5 @@
 ---
-minutes: 13.88
+minutes: 14
 title: "“Man’s Search for Meaning” by Viktor E. Frankl"
 keywords: [Life,Meaning Of Life,Victor Frankl,Suffering,Reading]
 featuredImage: './images2/mans-search-for-meaning-by-viktor-e-frankl-0.jpg'
@@ -7,11 +7,7 @@ featuredImage: './images2/mans-search-for-meaning-by-viktor-e-frankl-0.jpg'
 
 ### “Man’s Search for Meaning” by Viktor E. Frankl
 
-<figure>
-
 ![](/images2/mans-search-for-meaning-by-viktor-e-frankl-0.jpg)
-
-</figure>
 
 ### Preface
 

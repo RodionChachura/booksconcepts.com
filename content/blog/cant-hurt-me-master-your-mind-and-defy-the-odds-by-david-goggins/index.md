@@ -1,5 +1,5 @@
 ---
-minutes: 14.425
+minutes: 14
 title: "“Can’t Hurt Me: Master Your Mind and Defy the Odds” by David Goggins"
 keywords: [Self Improvement,Reading,Books]
 featuredImage: './images2/cant-hurt-me-master-your-mind-and-defy-the-odds-by-david-goggins-0.jpg'
@@ -7,11 +7,7 @@ featuredImage: './images2/cant-hurt-me-master-your-mind-and-defy-the-odds-by-dav
 
 ### “Can’t Hurt Me: Master Your Mind and Defy the Odds” by David Goggins
 
-<figure>
-
 ![](/images2/cant-hurt-me-master-your-mind-and-defy-the-odds-by-david-goggins-0.jpg)
-
-</figure>
 
 ### Introduction
 

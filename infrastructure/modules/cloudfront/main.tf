@@ -45,6 +45,13 @@ resource "aws_cloudfront_distribution" "frontend" {
 
   aliases = ["${var.domain}"]
 
+  custom_error_response {
+    error_caching_min_ttl = 300
+    error_code            = 404
+    response_code         = 200
+    response_page_path    = "/"
+  }
+
   default_cache_behavior {
     allowed_methods  = ["GET", "HEAD"]
     cached_methods   = ["GET", "HEAD"]

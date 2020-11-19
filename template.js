@@ -1,28 +1,24 @@
 const path = require('path')
 const readingTime= require('reading-time')
 
-module.exports = {
-  render: function(data) {
-    const { minutes } = readingTime(data.body)
-    const template = `\
+const render = (data) => `\
 ---
-minutes: ${minutes}
+minutes: ${Math.round(readingTime(data.body).minutes)}
 title: "${data.title}"
 keywords: [${data.tags.join(',')}]
 featuredImage: '.${data.images[0].localPath}'
 ---
 
 ${data.body}
-`;
+`
 
-    return template;
-  },
-  getOptions: function() {
-    return {
-      folderForEachSlug: true, // separate folder for each blog post, where index.md and post images will live
-      imagePath: '/images2', // <img src="/images2/[filename]" >. Used in the markdown files.
-      imageFolder: path.join(__dirname, 'static', 'media'),
-      defaultCodeBlockLanguage: 'js', // code fenced by default will be ``` with no lang. If most of your code blocks are in a specific lang, set this here.
-    };
-  },
+const getOptions = () => ({
+  folderForEachSlug: true,
+  imagePath: '/images2',
+  imageFolder: path.join(__dirname, 'static', 'media')
+})
+
+module.exports = {
+  render,
+  getOptions
 };

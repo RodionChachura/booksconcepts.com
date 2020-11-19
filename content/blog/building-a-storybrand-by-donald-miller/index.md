@@ -1,5 +1,5 @@
 ---
-minutes: 15.295
+minutes: 15
 title: "Building a StoryBrand by Donald Miller"
 keywords: [Marketing,Donald Miller,Reading,Book Review]
 featuredImage: './images2/building-a-storybrand-by-donald-miller-0.jpg'
@@ -7,11 +7,7 @@ featuredImage: './images2/building-a-storybrand-by-donald-miller-0.jpg'
 
 ### “Building a StoryBrand” by Donald Miller
 
-<figure>
-
 ![](/images2/building-a-storybrand-by-donald-miller-0.jpg)
-
-</figure>
 
 ### WHY MOST MARKETING IS A MONEY PIT
 
@@ -31,11 +27,7 @@ The essence of branding is to create simple, relevant messages we can repeat ove
 
 Here is nearly every story you see or hear in a nutshell: A **CHARACTER** who wants something encounters a **PROBLEM** before they can get it. At the peak of their despair, a **GUIDE** steps into their lives, gives them a **PLAN**, and **CALLS THEM TO ACTION**. That action helps them avoid **FAILURE** and ends in a **SUCCESS**.
 
-<figure>
-
 ![](/images2/building-a-storybrand-by-donald-miller-1.png)
-
-</figure>
 
 There are three question audience must be able to answer to engage in a story. And they should be able to answer these questions within five seconds of looking at our website or marketing material.
 

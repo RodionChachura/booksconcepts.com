@@ -1,6 +1,5 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
-import Img from 'gatsby-image'
+import { graphql } from "gatsby"
 import styled from "styled-components"
 
 import SEO from "../components/seo"
@@ -8,7 +7,8 @@ import Page from '../components/page'
 import Navbar from "../components/navbar"
 import index from '../../content/blog/index.json'
 import Layout from '../components/layout'
-import { AUTHOR } from '../constants/links'
+import BookCard from '../components/book-card'
+import AuthorPromotion from '../components/author-promotion'
 import { parseBookName } from '../utils'
 
 const Grid = styled.div`
@@ -18,72 +18,6 @@ const Grid = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fit, 300px);
   justify-content: center;
-`
-
-const ImgWrapper = styled.div`
-  border: 2px solid transparent;
-`
-
-const Container = styled(Link)`
-  padding: 5px;
-  min-height: 380px;
-  min-width: 300px;
-  transition: ${p => p.theme.transition.default};
-  border-radius: 5px;
-  text-decoration: none;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  border: 2px solid transparent;
-  justify-content: space-between;
-  :hover {
-    background: #F1F6F4;
-    border-color: ${p => p.theme.color.primaryFont};
-  }
-`
-
-const Name = styled.p`
-  text-align: center;
-  font-size: 18px;
-  color: ${p => p.theme.color.mainFont};
-  margin: 0;
-`
-
-const Author = styled(Name)`
-  color: ${p => p.theme.color.secondaryFont};
-  margin-bottom: 10px;
-`
-
-const Minutes = styled(Author)`
-  margin-top: 10px;
-  font-weight: bold;
-`
-
-const PromoWrapper = styled.div`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 160px;
-  margin-bottom: 20px;
-`
-
-const PromoText = styled.p`
-  font-size: 32px;
-  color: ${p => p.theme.color.mainFont};
-  font-weight: bold;
-  text-align: center;
-`
-
-const AuthorLink = styled.a`
-  text-decoration: none;
-  color: ${p => p.theme.color.primaryFont};
-  transition: ${p => p.theme.transition.default};
-  border-bottom: 2px solid ${p => p.theme.color.primaryFont};
-  :hover {
-    color: ${p => p.theme.color.actionFont};
-    border-color: ${p => p.theme.color.actionFont};
-  }
 `
 
 const BlogIndex = ({ data }) => {
@@ -105,20 +39,10 @@ const BlogIndex = ({ data }) => {
       <SEO title="Summaries of the best nonfiction books" description={`Looking for useful book summaries? BooksConcepts shares the key ideas from ${books.length} best nonfictional books of all-time.`} />
       <Page>
         <Navbar indexPage/>
-        <PromoWrapper>
-          <PromoText>Summaries of the best nonfiction books</PromoText>
-          <PromoText>curated by <AuthorLink target="_blank" href={AUTHOR}>GeekRodion</AuthorLink></PromoText>
-        </PromoWrapper>
+        <AuthorPromotion/>
         <Grid>
           {books.map(book => (
-            <Container key={book.route} to={book.route}>
-              <Name>{book.title}</Name>
-              <Author>{book.author}</Author>
-              <ImgWrapper>
-                <Img fixed={book.image} />
-              </ImgWrapper>
-              <Minutes>{Math.round(book.minutes)} min read</Minutes>
-            </Container>
+            <BookCard {...book} key={book.route} />
           ))}
         </Grid>
       </Page>

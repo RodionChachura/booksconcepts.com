@@ -1,5 +1,5 @@
 ---
-minutes: 15.515
+minutes: 15
 title: "“Atomic Habits” by James Clear"
 keywords: [Habit Building,Reading,Success,Book Review]
 featuredImage: './images2/atomic-habits-by-james-clear-0.jpg'
@@ -7,11 +7,7 @@ featuredImage: './images2/atomic-habits-by-james-clear-0.jpg'
 
 ### “Atomic Habits” by James Clear
 
-<figure>
-
 ![](/images2/atomic-habits-by-james-clear-0.jpg)
-
-</figure>
 
 #### INTRODUCTION
 
@@ -23,21 +19,13 @@ Why Tiny Changes Make a Big Difference
 
 Improving by 1 percent isn’t particularly notable — sometimes it isn’t even noticeable — but it can be far more meaningful, especially in the long run. The difference a tiny improvement can make over time is astounding. Here’s how the math works out: if you can get 1 percent better each day for one year, you’ll end up thirty-seven times better by the time you’re done. Conversely, if you get 1 percent worse each day for one year, you’ll decline nearly down to zero. What starts as a small win or a minor setback accumulates into something much more.
 
-<figure>
-
 ![](/images2/atomic-habits-by-james-clear-1.png)
-
-<figcaption>The effects of a small habits compound over time.</figcaption></figure>
 
 Making a choice that is 1 percent better or 1 percent worse seems insignificant in the moment, but over the span of moments that make up a lifetime these choices determine the difference between who you are and who you could be. Success is the product of daily habits — not once-in-a-lifetime transformations.
 
 In order to make a meaningful difference, habits need to persist long enough to break through this plateau — what I call the Plateau of Latent Potential.
 
-<figure>
-
 ![](/images2/atomic-habits-by-james-clear-2.png)
-
-<figcaption>This work was not wasted. It was simply being stored. It is not until much later the full value of previous efforts is revealed.</figcaption></figure>
 
 Goals are about the results you want to achieve. Systems are about the processes that lead to those results.
 
@@ -47,19 +35,11 @@ Changing our habits is challenging for two reasons: (1) we try to change the wro
 
 Three layers of behavior change:
 
-<figure>
-
 ![](/images2/atomic-habits-by-james-clear-3.png)
-
-<figcaption>There are three layers of behavior change: a change in your outcomes, a change in your process, or a change in your identity</figcaption></figure>
 
 Many people begin process of changing their habits by focusing on what they want to achieve. This leads us to outcome-based habits. The alternative is to build identity-based habits. With this approach, we start by focusing on who we wish to become.
 
-<figure>
-
 ![](/images2/atomic-habits-by-james-clear-4.png)
-
-<figcaption>With outcome-based habits, the focus is on what you want to achieve. With identity-based habits, the focus is on who you wish to become.</figcaption></figure>
 
 The more pride you have in a particular aspect of your identity, the more motivated you will be to maintain the habits associated with it.
 
@@ -76,19 +56,11 @@ The focus should always be on becoming that type of person, not getting a partic
 
 The process of building a habit can be divided into four simple steps: cue, craving, response, and reward.
 
-<figure>
-
 ![](/images2/atomic-habits-by-james-clear-5.png)
-
-<figcaption>All habits proceed through four stages in the same order: cue, craving, response, and reward</figcaption></figure>
 
 The cue triggers a craving, which motivates a response, which provides a reward, which satisfies the craving and, ultimately, becomes associated with the cue. Together, these four steps form a neurological feedback loop that ultimately allows you to create atomic habits. This cycle is known as the habit loop.
 
-<figure>
-
 ![](/images2/atomic-habits-by-james-clear-6.png)
-
-</figure>
 
 How to Create a Good Habit
 
@@ -120,11 +92,7 @@ Once an implementation intention has been set, you don’t need to wait for insp
 
 One of the best ways to build a new habit is to identify a current habit you already do each day and then stack your new behavior on top. This is called habit stacking.
 
-<figure>
-
 ![](/images2/atomic-habits-by-james-clear-7.png)
-
-<figcaption>Habit stacking increases the likelihood that you’ll stick with a habit by stacking your new behavior on top of an old one.</figcaption></figure>
 
 The 1st Law of Behavior Change is to make it obvious. Strategies like implementation intentions and habit stacking are among the most practical ways to create obvious cues for you habits and design a clear plan for when and where to take action.
 
@@ -170,11 +138,7 @@ If you want to master a habit, the key is to start with repetition, not perfecti
 
 All habits follow a similar trajectory from effortful practice to automatic behavior, a process known as automaticity. Automaticity is the ability to perform a behavior without thinking about each step, which occurs when the nonconscious mind takes over.
 
-<figure>
-
 ![](/images2/atomic-habits-by-james-clear-8.png)
-
-<figcaption>Beyond this threshold — the habit line — the behavior can be done more or less without thinking. A new habit has been formed.</figcaption></figure>
 
 You need to string together enough successful attempts until the behavior is firmly embedded in your mind and you cross the Habit Line.
 
@@ -188,11 +152,7 @@ Whether we are approaching behavior change as an individual, a parent, a coach, 
 
 Every day, there are a handful moments that deliver an outsized impact. I refer to these little choices as decisive moments. The difference between a good day and a bad day is often a few productive and healthy choices made at decisive moments. Each one is like a fork in the road, and these choices stack up throughout the day and can ultimately lead to very different outcomes.
 
-<figure>
-
 ![](/images2/atomic-habits-by-james-clear-9.png)
-
-</figure>
 
 When you start a new habit, it should take less than two minutes to do. Whenever you are struggling to stick with a habit, you can employ the Two-Minutes Rule. It’s a simple way to make your habits easy.
 
@@ -254,11 +214,7 @@ One of the best ways to ensure your habits remain satisfying over the long-run i
 
 The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right.
 
-<figure>
-
 ![](/images2/atomic-habits-by-james-clear-10.png)
-
-<figcaption>Maximum motivation occurs when facing a challenge of just manageable difficulty.</figcaption></figure>
 
 Once a habit has been established, however, it’s important to continue to advance in small ways. These little improvements and new challenges keep you engaged. And if you hit the Goldilocks Zone just right, you can achieve a flow state.
 
@@ -270,11 +226,7 @@ The only way to become excellent is to be endlessly fascinated by doing the same
 
 Mastery is the process of narrowing your focus to a tiny element of success, repeating it until you have internalized the skill, and then using this new habit as the foundation to advance to the next frontier of your development. Each habit unlocks the next level of performance. It’s an endless cycle.
 
-<figure>
-
 ![](/images2/atomic-habits-by-james-clear-11.png)
-
-<figcaption>The process of mastery requires that you progressively layer improvements on top of one another, each habit building upon the last until a new level of performance has been reached and a higher range of skills has been internalized.</figcaption></figure>
 
 Improvement is not just about learning habits, it’s also about fine-tuning them. Reflection and review ensures that you spend your time on the right things and make course corrections whenever necessary. You don’t want to keep practicing a habit if it becomes ineffective.
 

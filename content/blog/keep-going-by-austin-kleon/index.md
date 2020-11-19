@@ -1,5 +1,5 @@
 ---
-minutes: 11.53
+minutes: 12
 title: "“Keep Going” by Austin Kleon"
 keywords: [Keep Going,Creativity,Austin Kleon]
 featuredImage: './images2/keep-going-by-austin-kleon-0.jpg'
@@ -7,11 +7,7 @@ featuredImage: './images2/keep-going-by-austin-kleon-0.jpg'
 
 ### “Keep Going” by Austin Kleon
 
-<figure>
-
 ![](/images2/keep-going-by-austin-kleon-0.jpg)
-
-</figure>
 
 ### 1\. EVERY DAY IS GROUND HOG DAY
 

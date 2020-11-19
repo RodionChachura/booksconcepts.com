@@ -1,5 +1,5 @@
 ---
-minutes: 4.18
+minutes: 4
 title: "Key concepts of the book “The Five Disfunctions of a Team”"
 keywords: [Leadership,Books,Reading]
 featuredImage: './images2/the-five-dysfunctions-of-a-team-by-patrick-lencioni-0.jpg'
@@ -7,19 +7,11 @@ featuredImage: './images2/the-five-dysfunctions-of-a-team-by-patrick-lencioni-0.
 
 ### “The Five Dysfunctions of a Team” by Patrick Lencioni
 
-<figure>
-
 ![](/images2/the-five-dysfunctions-of-a-team-by-patrick-lencioni-0.jpg)
-
-</figure>
 
 #### An overview of the model
 
-<figure>
-
 ![](/images2/the-five-dysfunctions-of-a-team-by-patrick-lencioni-1.png)
-
-</figure>
 
 The first dysfunction is an **absence of trust** among team members. Essentially, this stems from their unwillingness to be vulnerable within the group. Team members who are not genuinely open with one another about their mistakes and weaknesses make it impossible to build a foundation for trust.
 

@@ -1,5 +1,5 @@
 ---
-minutes: 42.86
+minutes: 43
 title: "“UNSCRIPTED by MJ DeMarco"
 keywords: [Unscripted,Finance,Enterpreneurship,Financial Freedom,Business]
 featuredImage: './images2/unscripted-by-mj-demarco-0.jpg'
@@ -7,11 +7,7 @@ featuredImage: './images2/unscripted-by-mj-demarco-0.jpg'
 
 ### “UNSCRIPTED” by MJ DeMarco
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-0.jpg)
-
-</figure>
 
 #### INTRODUCTION
 
@@ -29,11 +25,7 @@ Like a compromised party, a **prejudiced party** also disseminates SCRIPTED doct
 
 #### THE SCRIPTED OPERATING SYSTEM: THE WEB OF SERVITUDE
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-1.png)
-
-<figcaption>the SCRIPTED OS</figcaption></figure>
 
 Here is the **SCRIPTED OS** decoded:
 
@@ -51,11 +43,7 @@ Here is the **SCRIPTED OS** decoded:
 
 #### THE SEEDERS: OUR LIFE SUCKS, YOURS SHOULD TOO
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-2.png)
-
-<figcaption>the 6 seeders</figcaption></figure>
 
 **#1) FRIENDS AND FAMILY: OUR LIFE SUCKS, SO YOURS SHOULD TOO.**
 
@@ -83,11 +71,7 @@ As in the movie’s Matrix, your SCRIPTED life is integral to the machine’s su
 
 #### HYPERREALITY: YOUR ILLUSIONARY CAPTORS
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-3.png)
-
-<figcaption>the hyperrealities</figcaption></figure>
 
 Because your brain deficiently perceives reality, what follows is a great cascade of false conclusions causing misguided beliefs. Misguided beliefs cause misguided actions. Misguided actions produce unwanted results. And unwanted results create dissatisfaction.
 
@@ -144,11 +128,7 @@ Conversely, **indentured time** is time someone else owns: school, studying, wor
 
 #### **THE LIFE PATHS: TWO DOORS, ONE SLAUGHTERHOUSE, NO DIFFERENCE**
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-4.png)
-
-<figcaption>the life paths</figcaption></figure>
 
 **DOOR #1: THE SIDEWALK (TRADE TOMORROW FOR TODAY)**
 
@@ -185,21 +165,13 @@ Many who struggle financially have a strong work ethic — the problem is th
 
 #### DISTRACTION: THE MINISTRY OF ENTERTAINMENT
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-5.png)
-
-<figcaption>the scripted OS</figcaption></figure>
 
 You see, if you’re too plumply entertained in hyperrealistic distraction, you’re no threat — no threat to the paradigms and certainly no threat to the meat grinder awaiting. Just sit back, relax, and focus on your movie because this train is leaving.
 
 #### M.O.D.E.L. CITIZENRY: SERIAL #666–77–8888
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-6.png)
-
-<figcaption>M.O.D.E.L citizenry</figcaption></figure>
 
 As the SCRIPT’s newest manufactured **M.O.D.E.L. Citizen**, life is:  
  **(M)EDIOCRE**: Life has regressed into an unremarkable yet comfortable ordinariness, where thriving is not an objective, but surviving.  
@@ -248,11 +220,7 @@ A real “fuck this” event fears nothing. An epiphanic FTE understands that th
 
 #### THE UNSCRIPTED ENTREPRENEURIAL FRAMEWORK (TUNEF)
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-7.png)
-
-<figcaption>TUNEF</figcaption></figure>
 
 The micro- and macro-processes scaffold the framework and grease the entrepreneurial G-spot, UNSCRIPTED’s birthplace.
 
@@ -260,19 +228,11 @@ The micro- and macro-processes scaffold the framework and grease the entrepreneu
 
 The framework’s **second subprocess is a macro-process**. Macro-processes are repeated and modified actions. The words “repeated” and “modified” are critical to results, changing the action from an event (a solitary action changing nothing) to a process (an action chain that changes everything).
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-8.png)
-
-<figcaption>successful micro-macro-process</figcaption></figure>
 
 #### OUR SELF-IMPOSED PRISON; BELIEFS, BIASES, AND BULLSHIT(3B)
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-9.png)
-
-<figcaption>3B</figcaption></figure>
 
 **BELIEFS**: What you think is true that necessarily isn’t.  
 **BIASES**: Your mental shortcuts and default assumptions, either reaffirming or protecting your beliefs.  
@@ -419,11 +379,7 @@ Real change comes from identity and self — not from interim motivations ju
 
 #### MEANING-AND-PURPOSE: THE UNSTOPPABLE WILL TO WIN
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-10.png)
-
-<figcaption>meaning and purpose</figcaption></figure>
 
 Great results require a great commitment. Commitment fires the process-principle where habits become lifestyle and lifestyle becomes winning results.
 
@@ -445,21 +401,13 @@ Denying the control in your life denies your free-range freedom and blunts auton
 
 #### HOW TO CREATE A BUSINESS THAT CHANGES YOUR LIFE
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-11.png)
-
-<figcaption>fastlane enterpreneurship</figcaption></figure>
 
 Represented by the left circle and unionized with a strong meaning and purpose coupled with rewritten beliefs, **Fastlane Entrepreneurship** is encompassed within one governing principle — a productocracy — followed by five core Commandments, frequently referred to as CENTS.
 
 #### THE PRODUCTOCRACY: HOW TO PRINT MONEY (AND SLEEP WELL)
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-12.png)
-
-<figcaption>productocracy</figcaption></figure>
 
 A **productocracy** pulls money to the value creators, businesses who grow organically through peer recommendations and repeat customers, compelled by a distinguished product/service not readily offered elsewhere.
 
@@ -471,11 +419,7 @@ Perceived value hustlers are interested in having the best marketing, the best c
 
 #### THE COMMANDMENT OF CONTROL: OWN WHAT YOU BUILD
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-13.png)
-
-<figcaption>control</figcaption></figure>
 
 To ensure you’re on the top side of the food chain, the **Commandment of Control** requires that your entire operation, from product development, to marketing, to distribution, to other operational components, be within your sphere of influence, or diversified from influence.
 
@@ -487,11 +431,7 @@ Take for example a company like Facebook, Airbnb, Alibaba, and Uber. None of the
 
 #### THE COMMANDMENT OF ENTRY: DIFFICULTY IS THE OPPORTUNITY!
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-14.png)
-
-<figcaption>entry</figcaption></figure>
 
 The **Commandment of Entry** states: As entry barriers to any business or start-up process weaken or become “easified,” so does the strength or the potential of the opportunity. Simply put, the easier the opportunity, the worse it is. Conversely, the harder something is to solve, the greater the opportunity.
 
@@ -503,11 +443,7 @@ The magnitude of the problem solved is the magnitude of the money you can make.
 
 #### THE COMMANDMENT OF NEED: HOW TO ENGINEER OPPORTUNITY IN ANY INDUSTRY
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-15.png)
-
-<figcaption>need</figcaption></figure>
 
 Whenever you say, “I can’t find ideas,” what you’re really saying is, the world is perfect and it needs nothing.
 
@@ -563,11 +499,7 @@ This practice, asking an audience about their problems, is called **solution sel
 
 #### THE COMMANDMENT OF TIME: EARN MORE THAN MONEY, EARN TIME
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-16.png)
-
-<figcaption>time</figcaption></figure>
 
 The **Commandment of Time** has two components. **The first is physicality**, where your value must exist in space-time separate from you. This book exists regardless of my existence. On the other hand, if you consult for a living, your income stops when you stop. There is no physicality.  
 **The second is detachment**. Eventually in your enterprise’s evolution, you must detach from its physicality, effectively freeing your time and life. When this is accomplished, it puts you “on the clock” 24/7, giving you the ability to earn perpetually THROUGH time versus IN time. This is how you wake up and earn a day’s wage before brewing the morning coffee.
@@ -589,11 +521,7 @@ Your objective in creating legacy value through a business system is an immediat
 
 #### THE COMMANDMENT OF SCALE: WIN LIFE & LIBERTY, NOT DINNER AND A MOVIE
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-17.png)
-
-<figcaption>scale</figcaption></figure>
 
 **Scale** instructs that legacy value systems must be replicated through mass or magnitude while making a profitable impact.  
 The four definitive components are:  
@@ -614,19 +542,11 @@ There are three basic scale strategies, each with their own internal challenges.
 
 #### KINETIC EXECUTION: EVERYTHING SIGNIFICANT STARTED INSIGNIFICANTLY
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-18.png)
-
-<figcaption>kinetic execution</figcaption></figure>
 
 **Kinetic execution** is meaningful action before answers, a method of situational and incremental problem-solving graduated to resolve a larger problem, which culminates into your business solution.
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-19.png)
-
-<figcaption>components</figcaption></figure>
 
 Kinetic execution’s first component is represented by the outermost circle — the **marketmind** — an understanding that the market cannot be forecast, predicted, or tamed. As an entrepreneur, the best we can do with the marketmind is engage it.
 
@@ -735,11 +655,7 @@ The best sales secret isn’t about sales at all. It’s peer testimonials and r
 
 #### THE 4 UNSCRIPTED DISCIPLINES: DESIGN, THEN INSURE YOUR FUTURE
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-20.png)
-
-<figcaption>the 4 disciplines</figcaption></figure>
 
 Once you accomplish a scaling productocracy, the four disciplines finalize the difference between lifelong UNSCRIPTION and fleeting success. They are:  
 1\. Comparative Immunity  
@@ -797,11 +713,7 @@ More money doesn’t solve money problems. While a big income can postpone or hi
 
 An effective UNSCRIPTED money system is allocated into two pots and an optional third. The size of these pots is dependent on your lifestyle goals as well as your risk tolerance for each item they represent.
 
-<figure>
-
 ![](/images2/unscripted-by-mj-demarco-21.png)
-
-<figcaption>the unscripted money system</figcaption></figure>
 
 #### THE “FUCK YOU” POT
 

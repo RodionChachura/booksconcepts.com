@@ -1,5 +1,5 @@
 ---
-minutes: 4.405
+minutes: 4
 title: "Key concepts of the book “Black Box Thinking”"
 keywords: [Self Improvement,Reading,Books]
 featuredImage: './images2/black-box-thinking-by-matthew-syed-0.jpg'
@@ -7,11 +7,7 @@ featuredImage: './images2/black-box-thinking-by-matthew-syed-0.jpg'
 
 ### “Black Box Thinking” by Matthew Syed
 
-<figure>
-
 ![](/images2/black-box-thinking-by-matthew-syed-0.jpg)
-
-</figure>
 
 #### Part 1: The Logic Of Failure
 

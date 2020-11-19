@@ -15,6 +15,11 @@ const cookPost = async (fileName, route) => {
   $('figcaption').first().remove()
   $('.section--last').remove()
   $('figure').first().prevUntil('h3').remove()
+  $('img').each((index, img) => {
+    const parent = $(img).parent()
+    $(img).insertAfter(parent)
+    parent.remove()
+  })
   const link = $('.p-canonical')
   const href = link.attr('href')
   const [hash] = href.split('-').reverse()
@@ -43,8 +48,7 @@ const filterPosts = async () => {
       }
     }).toArray()
     .filter(s => s.fileName)
-  const directoryExists = fs.existsSync(BOOKS_DIRECTORY)
-  if (!directoryExists) {
+  if (!fs.existsSync(BOOKS_DIRECTORY)) {
     await fs.promises.mkdir(BOOKS_DIRECTORY)
   }
   const indexJSON = JSON.stringify({
@@ -53,9 +57,9 @@ const filterPosts = async () => {
   const indexJSONPath = path.join(__dirname, 'content', 'blog', 'index.json')
   await fs.promises.writeFile(indexJSONPath, indexJSON)
 
-  for ({ fileName, route } of stories) {
-    await cookPost(fileName, route)
-  }
+  await Promise.all(
+    stories.map(({ fileName, route }) => cookPost(fileName, route))
+  )
 }
 
 filterPosts()

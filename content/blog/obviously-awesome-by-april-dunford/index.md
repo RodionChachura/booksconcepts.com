@@ -1,5 +1,5 @@
 ---
-minutes: 12.79
+minutes: 13
 title: "“Obviously Awesome” by April Dunford"
 keywords: [Product Positioning,Positioning,Product Management,Marketing]
 featuredImage: './images2/obviously-awesome-by-april-dunford-0.jpg'
@@ -7,11 +7,7 @@ featuredImage: './images2/obviously-awesome-by-april-dunford-0.jpg'
 
 ### “Obviously Awesome” by **April Dunford**
 
-<figure>
-
 ![](/images2/obviously-awesome-by-april-dunford-0.jpg)
-
-</figure>
 
 #### INTRODUCTION
 
@@ -70,11 +66,7 @@ Great positioning takes into account all of the following:
 
 Market categories help customers understand what your offering is all about and why they should care. Trends help buyers understand why this product is important to them right now.
 
-<figure>
-
 ![](/images2/obviously-awesome-by-april-dunford-1.png)
-
-</figure>
 
 ### THE 10-STEP POSITIONING PROCESS
 
@@ -203,11 +195,7 @@ If there’s a way to pull in trends, you should do it, but if there isn’t, it
 
 Positioning on its own isn’t useful to a company. Once you have worked through your positioning, you need to share it across the organization. Positioning needs to have company buy-in so it can be used to inform branding, marketing campaigns, sales strategy, product decisions and customer-success strategy.
 
-<figure>
-
 ![](/images2/obviously-awesome-by-april-dunford-2.png)
-
-<figcaption>Positioning canvas</figcaption></figure>
 
 ### 3\. PUTTING POSITIONING INTO PLAY
 

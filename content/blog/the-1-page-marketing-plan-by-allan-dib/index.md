@@ -1,5 +1,5 @@
 ---
-minutes: 30.195
+minutes: 30
 title: "“The 1-Page Marketing Plan” by Allan Dib"
 keywords: [Marketing,Marketing Plan]
 featuredImage: './images2/the-1-page-marketing-plan-by-allan-dib-0.jpg'
@@ -7,11 +7,7 @@ featuredImage: './images2/the-1-page-marketing-plan-by-allan-dib-0.jpg'
 
 ### “The 1-Page Marketing Plan” by Allan Dib
 
-<figure>
-
 ![](/images2/the-1-page-marketing-plan-by-allan-dib-0.jpg)
-
-</figure>
 
 ### INTRODUCTION
 
@@ -46,15 +42,7 @@ Branding, mass marketing and ego-based marketing is the domain of large companie
 
 Direct response marketing is a very deep topic with many facets. **The 1-Page Marketing Plan** is a tool that helps you implement direct response marketing in your business without needing to spend years studying to become an expert.
 
-<figure>
-
-![](/images2/the-1-page-marketing-plan-by-allan-dib-1.png)
-
-<figcaption><a href="http://1pmp.com" class="figcaption-link">Book Resources</a></figcaption></figure><figure>
-
-![](/images2/the-1-page-marketing-plan-by-allan-dib-2.png)
-
-<figcaption>The Three Phases Of The Marketing Journey</figcaption></figure>
+![](/images2/the-1-page-marketing-plan-by-allan-dib-1.png)![](/images2/the-1-page-marketing-plan-by-allan-dib-2.png)
 
 ### ACT I — The “Before” Phase
 
@@ -245,11 +233,7 @@ All other things being equal, the more money you can spend marketing to high pro
 
 Remember the goal is simply to generate leads. Avoid the temptation of trying to sell from your ad. At this early stage you just want to sift out the uninterested and unmotivated so that you can build your database of high probability prospects.
 
-<figure>
-
 ![](/images2/the-1-page-marketing-plan-by-allan-dib-3.png)
-
-</figure>
 
 At the absolute center of your marketing infrastructure is your database of customers and prospects, but to manage your database effectively you really need a CRM system. The **CRM system** is your marketing nerve center. It’s where you manage your goldmine.
 
@@ -261,11 +245,7 @@ You want all your leads, all your customer interactions to end up in your CRM. T
 
 When it comes to marketing, the money is in the follow-up. Based on this we build the irresistible lead nurturing model.
 
-<figure>
-
 ![](/images2/the-1-page-marketing-plan-by-allan-dib-4.png)
-
-</figure>
 
 Immediately after you’ve captured a lead, they should go into your system where repeated contacts are made over time. These are not contacts where you obnoxiously try to pester them into buying. You build a relationship, giving them value in advance of them buying anything from you and in the process building trust and demonstrating authority in your field of expertise.
 
@@ -417,11 +397,7 @@ Look at who has your customers before you and after you and find ways of creatin
 
 ### Conclusion
 
-<figure>
-
 ![](/images2/the-1-page-marketing-plan-by-allan-dib-5.png)
-
-</figure>
 
 You need to make the mistakes, risk looking foolish and invest in yourself and your business. In my experience I’ve found that entrepreneurs fail to implement for one of the following three reasons:
 

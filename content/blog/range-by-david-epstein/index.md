@@ -1,5 +1,5 @@
 ---
-minutes: 11.22
+minutes: 11
 title: "“Range” by David Epstein"
 keywords: [Range,David Epstein,Specialization,Polymath,Careers]
 featuredImage: './images2/range-by-david-epstein-0.jpg'
@@ -7,11 +7,7 @@ featuredImage: './images2/range-by-david-epstein-0.jpg'
 
 ### “Range” by David Epstein
 
-<figure>
-
 ![](/images2/range-by-david-epstein-0.jpg)
-
-</figure>
 
 #### The Cult of the Head Start
 

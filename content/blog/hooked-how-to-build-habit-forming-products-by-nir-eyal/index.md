@@ -1,5 +1,5 @@
 ---
-minutes: 13.98
+minutes: 14
 title: "“Hooked: How to Build Habit-Forming Products” by Nir Eyal"
 keywords: [Startup,Product Design,Habits,Reading,Books]
 featuredImage: './images2/hooked-how-to-build-habit-forming-products-by-nir-eyal-0.jpg'
@@ -7,11 +7,7 @@ featuredImage: './images2/hooked-how-to-build-habit-forming-products-by-nir-eyal
 
 ### “Hooked: How to Build Habit-Forming Products” by Nir Eyal
 
-<figure>
-
 ![](/images2/hooked-how-to-build-habit-forming-products-by-nir-eyal-0.jpg)
-
-</figure>
 
 ### INTRODUCTION
 
@@ -21,11 +17,7 @@ Today, small startup teams can profoundly change behavior by guiding users throu
 
 Hook Model: a four-phase process companies use to forms habits. Through consecutive hooks cycles, successful products reach their ultimate goal of unprompted user engagement, bringing users back repeatedly.
 
-<figure>
-
 ![](/images2/hooked-how-to-build-habit-forming-products-by-nir-eyal-1.png)
-
-</figure>
 
 A **trigger** is the actuator of behavior — the spark plug in the engine. Triggers come in two types: external and internal. Habit-forming products start by alerting users with external triggers like an email, a website link, or the app icon on phone.
 
@@ -55,11 +47,7 @@ A company can begin to determine its product’s habit-forming potential by plot
 
 A behavior that occurs with enough frequency and perceived utility enters the Habit Zone, helping to make it a default behavior. If either of these factors falls short and the behavior lies below the threshold, it is less likely that the desired behavior will become a habit.
 
-<figure>
-
 ![](/images2/hooked-how-to-build-habit-forming-products-by-nir-eyal-2.png)
-
-</figure>
 
 Gatekeepers such as investors and managers want to invest in solving real problems — or, meeting immediate needs — by backing painkillers. Painkillers solve an obvious need, relieving a specific pain and often have quantifiable markets. In contrast, vitamins do not necessarily solve an obvious pain-point. Instead they appeal to users’ emotional rather than functional needs.
 
@@ -111,11 +99,7 @@ To hold our attention, products must have an ongoing degree of novelty.
 
 Variable rewards can be found in all sorts of products and experiences that hold our attention. They fuel our drive to check email, browse the web, or bargain-shop. Variable rewards come in three types: Tribe, hunt and self. Habit-forming products utilize one or more of these variable reward types.
 
-<figure>
-
 ![](/images2/hooked-how-to-build-habit-forming-products-by-nir-eyal-3.png)
-
-</figure>
 
 We are a species that depends on each other. Rewards of the tribe, or social rewards, are driven by our connectedness with other people. Rewards of the tribe keep users coming back, wanting more.
 
@@ -169,11 +153,7 @@ You are now equipped to use the Hook Model to ask yourself these five fundamenta
 
 **The Manipulation Matrix** does not try to answer which businesses are moral or which will succeed, nor does it describe what can and can not become a habit-forming technology. The matrix seeks to help you answer not, “Can I hook my users?” but instead, “Should I attempt to?”
 
-<figure>
-
 ![](/images2/hooked-how-to-build-habit-forming-products-by-nir-eyal-4.png)
-
-</figure>
 
 **The Facilitator.** When you create something that you would use and you believe makes the user’s life better, you are facilitating a healthy habit. In building a habit for a user other than yourself, you can not consider yourself a facilitator unless you have experienced the problem first-hand.
 

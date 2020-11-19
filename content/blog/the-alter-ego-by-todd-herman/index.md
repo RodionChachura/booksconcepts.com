@@ -1,5 +1,5 @@
 ---
-minutes: 18.865
+minutes: 19
 title: "“The Alter Ego” by Todd Herman"
 keywords: [Self Improvement,Alter Ego,Books,Reading,Summary]
 featuredImage: './images2/the-alter-ego-by-todd-herman-0.jpg'
@@ -7,21 +7,13 @@ featuredImage: './images2/the-alter-ego-by-todd-herman-0.jpg'
 
 ### “The Alter Ego Effect” by Todd Herman
 
-<figure>
-
 ![](/images2/the-alter-ego-by-todd-herman-0.jpg)
-
-</figure>
 
 ### The Power of the Alter Ego Effect
 
 **The Core Self** is where possibility exists. It’s this deep inner core where a creative force resides waiting to be activated by the power of intention. Because human beings have this incredible ability to imagine, create, and decide, it gives you the opportunity to change something in an instant.
 
-<figure>
-
 ![](/images2/the-alter-ego-by-todd-herman-1.png)
-
-<figcaption>four layers that surround our Core Self</figcaption></figure>
 
 1.  **Your Core Drivers**(what motivates you at a grander scale then yourself).
 2.  **The Belief Layer**(how you define yourself and the world around you).

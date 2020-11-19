@@ -1,5 +1,5 @@
 ---
-minutes: 19.28
+minutes: 19
 title: "“Indistractable” by Nir Eyal"
 keywords: [Indistractable,Nir Eyal,Productivity,Attention,Time Management]
 featuredImage: './images2/indistractable-by-nir-eyal-0.jpg'
@@ -7,11 +7,7 @@ featuredImage: './images2/indistractable-by-nir-eyal-0.jpg'
 
 ### “Indistractable” by Nir Eyal
 
-<figure>
-
 ![](/images2/indistractable-by-nir-eyal-0.jpg)
-
-</figure>
 
 #### Introduction
 
@@ -21,21 +17,13 @@ The antidote to impulsiveness is forethought. Planning ahead ensures you will fo
 
 #### Being Indistractable
 
-<figure>
-
 ![](/images2/indistractable-by-nir-eyal-1.png)
-
-</figure>
 
 All behaviors, whether they tend toward traction or distraction, are prompted by triggers, internal or external.
 
 Whether prompted by internal or external triggers, the resulting action is either aligned with our broader intention (traction) or misaligned (distraction). Traction helps us accomplish goals; distraction leads us away from them.
 
-<figure>
-
 ![](/images2/indistractable-by-nir-eyal-2.png)
-
-</figure>
 
 Indistractable people are as honest with themselves as they are with others. If you care about your work, your family, and your physical and mental well-being, you must learn how to become indistractable. The four-part Indistractable Model is a tool for seeing and interacting with the world in a new way. It will serve as your map for controlling your attention and choosing your life.
 

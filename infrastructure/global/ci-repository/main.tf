@@ -11,7 +11,7 @@ resource "aws_ecr_repository" "ci" {
 }
 
 resource "aws_ecr_repository_policy" "ci-policy" {
-  repository = "${aws_ecr_repository.ci.name}"
+  repository = aws_ecr_repository.ci.name
 
   policy = <<EOF
 {

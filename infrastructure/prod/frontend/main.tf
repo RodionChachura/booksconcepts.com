@@ -31,18 +31,18 @@ module "cloudfront" {
   zone_id = "${data.terraform_remote_state.route.outputs.zone_id}"
 }
 
-module "pipeline" {
-  source = "../../modules/frontend-pipeline"
+# module "pipeline" {
+#   source = "../../modules/frontend-pipeline"
 
-  region = "${var.region}"
-  access_key = "${var.access_key}"
-  secret_key = "${var.secret_key}"
+#   region = "${var.region}"
+#   access_key = "${var.access_key}"
+#   secret_key = "${var.secret_key}"
 
-  env = "prod"
-  deploy_bucket = "${module.cloudfront.build_bucket}"
-  distribution_id = "${module.cloudfront.distribution_id}"
-  repo_name = "${var.repo_name}"
-  repo_owner = "${var.repo_owner}"
-  branch = "${var.branch}"
-}
+#   env = "prod"
+#   deploy_bucket = "${module.cloudfront.build_bucket}"
+#   distribution_id = "${module.cloudfront.distribution_id}"
+#   repo_name = "${var.repo_name}"
+#   repo_owner = "${var.repo_owner}"
+#   branch = "${var.branch}"
+# }
 

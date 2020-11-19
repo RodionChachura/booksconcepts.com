@@ -1,17 +1,13 @@
 ---
-minutes: 20.785
+minutes: 21
 title: "The 50th Law"
-keywords: [Self Improvement,Reading,Robert Greene,50 Cent,Power]
+keywords: []
 featuredImage: './images2/the-50th-law-by-50-cent-and-robert-greene-0.jpg'
 ---
 
 ### “The 50th Law” by 50 Cent and Robert Greene
 
-<figure>
-
 ![](/images2/the-50th-law-by-50-cent-and-robert-greene-0.jpg)
-
-</figure>
 
 ### Foreword
 

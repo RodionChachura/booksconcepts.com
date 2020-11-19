@@ -1,5 +1,5 @@
 ---
-minutes: 14.6
+minutes: 15
 title: "“Breath: The New Science of a Lost Art” by James Nestor"
 keywords: [Breathing,Health,Breathing Exercise]
 featuredImage: './images2/breath-the-new-science-of-a-lost-art-by-james-nestor-0.jpg'
@@ -7,11 +7,7 @@ featuredImage: './images2/breath-the-new-science-of-a-lost-art-by-james-nestor-0
 
 ### “Breath: The New Science of a Lost Art” by James Nestor
 
-<figure>
-
 ![](/images2/breath-the-new-science-of-a-lost-art-by-james-nestor-0.jpg)
-
-</figure>
 
 #### INTRODUCTION
 

@@ -7,6 +7,6 @@ terraform {
 }
 
 resource "aws_route53_zone" "primary" {
-  name = "${var.domain}"
+  name = var.domain
   comment = "primary hosted zone for booksconcepts.com"
 }

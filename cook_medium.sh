@@ -5,3 +5,4 @@ rm -rf medium-export
 node filter-posts.js
 rm -rf posts
 medium2gatsby books_posts -o content/blog -t template.js -d
+# rm -rf books_posts

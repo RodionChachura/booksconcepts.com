@@ -1,5 +1,5 @@
 ---
-minutes: 15.965
+minutes: 16
 title: "“Digital Minimalism” by Cal Newport"
 keywords: [Social Media,Digital Minimalism,Cal Newport,Reading,Summary]
 featuredImage: './images2/digital-minimalism-by-cal-newport-0.jpg'
@@ -7,11 +7,7 @@ featuredImage: './images2/digital-minimalism-by-cal-newport-0.jpg'
 
 ### “Digital Minimalism” by Cal Newport
 
-<figure>
-
 ![](/images2/digital-minimalism-by-cal-newport-0.jpg)
-
-</figure>
 
 ### Introduction
 
