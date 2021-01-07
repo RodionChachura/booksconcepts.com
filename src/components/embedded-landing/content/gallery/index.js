@@ -14,10 +14,10 @@ const Gallery = ({ size: { width, height }, data }) => {
 
     const nodes = data.allMarkdownRemark.edges.map(e => e.node)
 
-    return index.books.slice(0, booksNumber).map(({ name, route }) => {
+    return index.books.slice(0, booksNumber).map(({ route }) => {
       const { frontmatter: { featuredImage }, fields: { slug }} = nodes.find(n => n.fields.slug.split('/').join('') === route)
       return (
-        <BookContainer key={name}>
+        <BookContainer key={route}>
           <ImgWrapper target="_blank" rel="noopener noreferrer" href={`${APP_URL}/${slug}`}>
             <Img fixed={featuredImage.childImageSharp.fixed} />
           </ImgWrapper>

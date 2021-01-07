@@ -1,6 +1,6 @@
 ---
 minutes: 5
-title: "Key concepts of the book “Deep Work”"
+title: "“Deep Work” by Cal Newport"
 keywords: [Productivity,Books,Reading]
 featuredImage: './images2/deep-work-by-cal-newport-0.jpg'
 ---

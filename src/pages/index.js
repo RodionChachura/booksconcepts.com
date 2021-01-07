@@ -22,12 +22,11 @@ const Grid = styled.div`
 
 const BlogIndex = ({ data }) => {
   const nodes = data.allMarkdownRemark.edges.map(e => e.node)
-  const books = index.books.map(({ name, route }) => {
-    const { frontmatter: { featuredImage, minutes }, fields: { slug }} = nodes.find(n => n.fields.slug.split('/').join('') === route)
-    const { title, author } = parseBookName(name)
+  const books = index.books.map(({ route }) => {
+    const { frontmatter: { featuredImage, minutes, title: fullTitle }, fields: { slug }} = nodes.find(n => n.fields.slug.split('/').join('') === route)
+    const { title, author } = parseBookName(fullTitle)
     return {
       route: slug,
-      name,
       title,
       author,
       image: featuredImage.childImageSharp.fixed,
@@ -36,7 +35,9 @@ const BlogIndex = ({ data }) => {
   })
   return (
     <Layout>
-      <SEO title="Summaries of the best nonfiction books" description={`Looking for useful book summaries? BooksConcepts shares the key ideas from ${books.length} best nonfictional books of all-time.`} />
+      <SEO
+        title="Summaries of the best nonfiction books"
+        description={`Looking for useful book summaries? BooksConcepts shares the key ideas from ${books.length} best nonfictional books of all-time.`} />
       <Page>
         <Navbar indexPage/>
         <AuthorPromotion/>

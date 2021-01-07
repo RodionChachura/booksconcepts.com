@@ -1,6 +1,6 @@
 ---
 minutes: 4
-title: "Key concepts of the book “Black Box Thinking”"
+title: "“Black Box Thinking” by Matthew Syed"
 keywords: [Self Improvement,Reading,Books]
 featuredImage: './images2/black-box-thinking-by-matthew-syed-0.jpg'
 ---
