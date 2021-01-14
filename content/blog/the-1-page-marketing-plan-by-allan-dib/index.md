@@ -1,5 +1,4 @@
 ---
-minutes: 30
 title: "“The 1-Page Marketing Plan” by Allan Dib"
 keywords: [Marketing,Marketing Plan]
 featuredImage: './images2/the-1-page-marketing-plan-by-allan-dib-0.jpg'

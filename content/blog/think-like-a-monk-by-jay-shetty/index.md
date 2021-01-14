@@ -1,5 +1,4 @@
 ---
-minutes: 10
 title: "“Think Like a Monk” by Jay Shetty"
 keywords: [Self Help, Meditation, Gratitude, Relationships]
 featuredImage: './0.jpg'

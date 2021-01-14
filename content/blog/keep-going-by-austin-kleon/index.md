@@ -1,5 +1,4 @@
 ---
-minutes: 12
 title: "“Keep Going” by Austin Kleon"
 keywords: [Keep Going,Creativity,Austin Kleon]
 featuredImage: './images2/keep-going-by-austin-kleon-0.jpg'

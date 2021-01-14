@@ -1,5 +1,4 @@
 ---
-minutes: 10
 title: "“How Finance Works” by Mihir A. Desai"
 keywords: [Finance]
 featuredImage: './0.jpg'

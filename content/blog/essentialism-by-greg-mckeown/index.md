@@ -1,5 +1,4 @@
 ---
-minutes: 13
 title: "“Essentialism” by Greg McKeown"
 keywords: [Self Improvement,Essentialism,Books,Reading]
 featuredImage: './images2/essentialism-by-greg-mckeown-0.jpg'

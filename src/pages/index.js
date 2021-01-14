@@ -23,14 +23,14 @@ const Grid = styled.div`
 const BlogIndex = ({ data }) => {
   const nodes = data.allMarkdownRemark.edges.map(e => e.node)
   const books = index.books.map(({ route }) => {
-    const { frontmatter: { featuredImage, minutes, title: fullTitle }, fields: { slug }} = nodes.find(n => n.fields.slug.split('/').join('') === route)
+    const { frontmatter: { featuredImage, title: fullTitle }, fields: { slug, readingTime: { minutes } }} = nodes.find(n => n.fields.slug.split('/').join('') === route)
     const { title, author } = parseBookName(fullTitle)
     return {
       route: slug,
       title,
       author,
       image: featuredImage.childImageSharp.fixed,
-      minutes
+      minutes: Math.round(minutes)
     }
   })
   return (
@@ -66,10 +66,12 @@ export const pageQuery = graphql`
           excerpt
           fields {
             slug
+            readingTime {
+              minutes
+            }
           }
           frontmatter {
             title
-            minutes
             featuredImage {
               childImageSharp {
                 fixed(height: 280) {

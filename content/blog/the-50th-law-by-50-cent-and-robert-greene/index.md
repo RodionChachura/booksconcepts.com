@@ -1,5 +1,4 @@
 ---
-minutes: 21
 title: "“The 50th Law” by 50 Cent and Robert Greene"
 keywords: []
 featuredImage: './images2/the-50th-law-by-50-cent-and-robert-greene-0.jpg'

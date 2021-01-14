@@ -1,5 +1,4 @@
 ---
-minutes: 16
 title: "“Digital Minimalism” by Cal Newport"
 keywords: [Social Media,Digital Minimalism,Cal Newport,Reading,Summary]
 featuredImage: './images2/digital-minimalism-by-cal-newport-0.jpg'

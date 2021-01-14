@@ -1,5 +1,4 @@
 ---
-minutes: 11
 title: "“Range” by David Epstein"
 keywords: [Range,David Epstein,Specialization,Polymath,Careers]
 featuredImage: './images2/range-by-david-epstein-0.jpg'

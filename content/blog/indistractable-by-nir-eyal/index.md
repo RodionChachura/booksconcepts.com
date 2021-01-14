@@ -1,5 +1,4 @@
 ---
-minutes: 19
 title: "“Indistractable” by Nir Eyal"
 keywords: [Indistractable,Nir Eyal,Productivity,Attention,Time Management]
 featuredImage: './images2/indistractable-by-nir-eyal-0.jpg'

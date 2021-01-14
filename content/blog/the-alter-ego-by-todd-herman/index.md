@@ -1,5 +1,4 @@
 ---
-minutes: 19
 title: "“The Alter Ego” by Todd Herman"
 keywords: [Self Improvement,Alter Ego,Books,Reading,Summary]
 featuredImage: './images2/the-alter-ego-by-todd-herman-0.jpg'

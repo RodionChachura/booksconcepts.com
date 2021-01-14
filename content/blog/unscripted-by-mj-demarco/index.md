@@ -1,5 +1,4 @@
 ---
-minutes: 43
 title: "“UNSCRIPTED by MJ DeMarco"
 keywords: [Unscripted,Finance,Enterpreneurship,Financial Freedom,Business]
 featuredImage: './images2/unscripted-by-mj-demarco-0.jpg'

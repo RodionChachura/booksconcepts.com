@@ -1,5 +1,4 @@
 ---
-minutes: 15
 title: "“Atomic Habits” by James Clear"
 keywords: [Habit Building,Reading,Success,Book Review]
 featuredImage: './images2/atomic-habits-by-james-clear-0.jpg'

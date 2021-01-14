@@ -1,5 +1,4 @@
 ---
-minutes: 14
 title: "“Hooked: How to Build Habit-Forming Products” by Nir Eyal"
 keywords: [Startup,Product Design,Habits,Reading,Books]
 featuredImage: './images2/hooked-how-to-build-habit-forming-products-by-nir-eyal-0.jpg'

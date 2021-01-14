@@ -1,5 +1,4 @@
 ---
-minutes: 13
 title: "“Obviously Awesome” by April Dunford"
 keywords: [Product Positioning,Positioning,Product Management,Marketing]
 featuredImage: './images2/obviously-awesome-by-april-dunford-0.jpg'

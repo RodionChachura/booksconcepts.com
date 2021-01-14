@@ -1,5 +1,4 @@
 ---
-minutes: 4
 title: "“Black Box Thinking” by Matthew Syed"
 keywords: [Self Improvement,Reading,Books]
 featuredImage: './images2/black-box-thinking-by-matthew-syed-0.jpg'

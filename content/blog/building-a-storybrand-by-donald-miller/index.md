@@ -1,5 +1,4 @@
 ---
-minutes: 15
 title: "Building a StoryBrand by Donald Miller"
 keywords: [Marketing,Donald Miller,Reading,Book Review]
 featuredImage: './images2/building-a-storybrand-by-donald-miller-0.jpg'

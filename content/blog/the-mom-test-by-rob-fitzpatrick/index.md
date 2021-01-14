@@ -1,5 +1,4 @@
 ---
-minutes: 10
 title: "“The Mom Test” by Rob Fitzpatrick"
 keywords: [Customer Development,Customer Research,The Mom Test]
 featuredImage: './images2/the-mom-test-by-rob-fitzpatrick-0.png'
