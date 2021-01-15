@@ -6,12 +6,13 @@ import Page from "../components/page"
 import Navbar from "../components/navbar"
 import Layout from '../components/layout'
 import { parseBookName } from '../utils'
-import { Article, Section } from '../components/book'
+import { Article, Section, Title, Minutes } from '../components/book'
 import Promotion from '../components/promotion'
 
 const BlogPostTemplate = ({ data }) => {
   const post = data.markdownRemark
   const { title, author } = parseBookName(post.frontmatter.title)
+  const minutes = Math.round(post.fields.readingTime.minutes)
   return (
     <Layout>
       <Page>
@@ -20,6 +21,10 @@ const BlogPostTemplate = ({ data }) => {
           title={`Book Summary: ${title}`}
           description={`This is a book summary of ${title} by ${author}. Read this summary to review key ideas and lessons from the book.`}
         />
+        <Title>
+          Book Summary: "{title}" by {author}
+        </Title>
+        <Minutes>{minutes} min read</Minutes>
         <Article>
           <Section dangerouslySetInnerHTML={{ __html: post.html }} />
           <Promotion/>
@@ -39,6 +44,11 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+      }
+      fields {
+        readingTime {
+          minutes
+        }
       }
     }
   }

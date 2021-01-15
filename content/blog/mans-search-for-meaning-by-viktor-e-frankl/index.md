@@ -4,8 +4,6 @@ keywords: [Life,Meaning Of Life,Victor Frankl,Suffering,Reading]
 featuredImage: './images2/mans-search-for-meaning-by-viktor-e-frankl-0.jpg'
 ---
 
-### “Man’s Search for Meaning” by Viktor E. Frankl
-
 ![](/images2/mans-search-for-meaning-by-viktor-e-frankl-0.jpg)
 
 ### Preface

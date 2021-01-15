@@ -4,8 +4,6 @@ keywords: [Indistractable,Nir Eyal,Productivity,Attention,Time Management]
 featuredImage: './images2/indistractable-by-nir-eyal-0.jpg'
 ---
 
-### “Indistractable” by Nir Eyal
-
 ![](/images2/indistractable-by-nir-eyal-0.jpg)
 
 #### Introduction

@@ -4,8 +4,6 @@ keywords: [Self Help, Meditation, Gratitude, Relationships]
 featuredImage: './0.jpg'
 ---
 
-### “Think Like a Monk” by Jay Shetty
-
 ![](./0.jpg)
 
 ## INTRODUCTION

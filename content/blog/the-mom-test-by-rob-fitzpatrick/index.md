@@ -4,8 +4,6 @@ keywords: [Customer Development,Customer Research,The Mom Test]
 featuredImage: './images2/the-mom-test-by-rob-fitzpatrick-0.png'
 ---
 
-### “The Mom Test” by Rob Fitzpatrick
-
 ![](/images2/the-mom-test-by-rob-fitzpatrick-0.png)
 
 ### Introduction

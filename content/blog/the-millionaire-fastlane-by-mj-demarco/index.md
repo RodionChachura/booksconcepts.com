@@ -4,8 +4,6 @@ keywords: [Financial Freedom,Fastlane,Business,Reading,Success]
 featuredImage: './images2/the-millionaire-fastlane-by-mj-demarco-0.jpg'
 ---
 
-### “The Millionaire Fastlane” by MJ DeMarco
-
 ![](/images2/the-millionaire-fastlane-by-mj-demarco-0.jpg)
 
 ### Wealth in a Wheelchair… “Get Rich Slow” is Get Rich Old

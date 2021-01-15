@@ -4,8 +4,6 @@ keywords: [Self Improvement,Books,Book Review]
 featuredImage: './images2/the-compound-effect-by-darren-hardy-0.jpg'
 ---
 
-### “The Compound Effect” by Darren Hardy
-
 ![](/images2/the-compound-effect-by-darren-hardy-0.jpg)
 
 #### Chapter 1: THE COMPOUND EFFECT IN ACTION

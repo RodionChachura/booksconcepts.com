@@ -4,8 +4,6 @@ keywords: [Self Improvement,Jordan Peterson,12 Rules For Life,Books]
 featuredImage: './images2/12-rules-for-life-an-antidote-to-chaos-by-jordan-b-peterson-0.jpg'
 ---
 
-### “12 Rules for Life: An Antidote to Chaos” by Jordan B. Peterson
-
 ![](/images2/12-rules-for-life-an-antidote-to-chaos-by-jordan-b-peterson-0.jpg)
 
 ### RULE 1: STAND UP STRAIGHT WITH YOUR SHOULDERS BACK

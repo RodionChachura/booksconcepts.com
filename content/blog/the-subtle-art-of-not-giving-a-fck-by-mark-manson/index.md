@@ -4,8 +4,6 @@ keywords: [Self Improvement,Reading,Mark Manson,Book Summary]
 featuredImage: './images2/the-subtle-art-of-not-giving-a-fck-by-mark-manson-0.jpg'
 ---
 
-### “The Subtle Art of Not Giving a F*ck” by Mark Manson
-
 ![](/images2/the-subtle-art-of-not-giving-a-fck-by-mark-manson-0.jpg)
 
 ### Chapter 1. Don’t Try

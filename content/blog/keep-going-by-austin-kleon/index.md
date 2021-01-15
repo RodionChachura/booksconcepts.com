@@ -4,8 +4,6 @@ keywords: [Keep Going,Creativity,Austin Kleon]
 featuredImage: './images2/keep-going-by-austin-kleon-0.jpg'
 ---
 
-### “Keep Going” by Austin Kleon
-
 ![](/images2/keep-going-by-austin-kleon-0.jpg)
 
 ### 1\. EVERY DAY IS GROUND HOG DAY

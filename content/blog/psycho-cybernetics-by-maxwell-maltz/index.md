@@ -4,8 +4,6 @@ keywords: [Self Improvement,Mindset,Reading,Books]
 featuredImage: './images2/psycho-cybernetics-by-maxwell-maltz-0.jpg'
 ---
 
-### “Psycho Cybernetics” by Maxwell Maltz
-
 ![](/images2/psycho-cybernetics-by-maxwell-maltz-0.jpg)
 
 #### The Self Image: Your Key to a Better Life

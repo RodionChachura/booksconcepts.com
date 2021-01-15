@@ -4,8 +4,6 @@ keywords: [Breathing,Health,Breathing Exercise]
 featuredImage: './images2/breath-the-new-science-of-a-lost-art-by-james-nestor-0.jpg'
 ---
 
-### “Breath: The New Science of a Lost Art” by James Nestor
-
 ![](/images2/breath-the-new-science-of-a-lost-art-by-james-nestor-0.jpg)
 
 #### INTRODUCTION

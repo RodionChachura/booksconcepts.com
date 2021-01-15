@@ -1,5 +1,17 @@
 import styled from 'styled-components'
 
+export const Title = styled.h1`
+  margin-top: 20px;
+  font-size: 32px;
+`
+
+export const Minutes = styled.h3`
+  font-size: 18px;
+  color: ${p => p.theme.color.primaryFont};
+  margin: 10px 0;
+  font-weight: bold;
+`
+
 export const Article = styled.article`
   max-width: 680px;
 `

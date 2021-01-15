@@ -4,8 +4,6 @@ keywords: [Creativity,Self Improvement,Steven Pressfield,Book Summary,Reading]
 featuredImage: './images2/the-war-of-art-by-steven-pressfield-0.jpg'
 ---
 
-### “The War of Art” by Steven Pressfield
-
 ![](/images2/the-war-of-art-by-steven-pressfield-0.jpg)
 
 Most of us have two lives. The life we live, and the unlived life within us. Between the two stands **Resistance**.

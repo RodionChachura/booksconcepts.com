@@ -4,8 +4,6 @@ keywords: []
 featuredImage: './images2/the-50th-law-by-50-cent-and-robert-greene-0.jpg'
 ---
 
-### “The 50th Law” by 50 Cent and Robert Greene
-
 ![](/images2/the-50th-law-by-50-cent-and-robert-greene-0.jpg)
 
 ### Foreword

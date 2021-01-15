@@ -4,8 +4,6 @@ keywords: [Range,David Epstein,Specialization,Polymath,Careers]
 featuredImage: './images2/range-by-david-epstein-0.jpg'
 ---
 
-### “Range” by David Epstein
-
 ![](/images2/range-by-david-epstein-0.jpg)
 
 #### The Cult of the Head Start

@@ -4,8 +4,6 @@ keywords: []
 featuredImage: './images2/the-10x-rule-by-grant-cardone-0.jpg'
 ---
 
-### “The 10X Rule” by Grant Cardone
-
 ![](/images2/the-10x-rule-by-grant-cardone-0.jpg)
 
 #### Introduction

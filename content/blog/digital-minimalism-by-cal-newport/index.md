@@ -4,8 +4,6 @@ keywords: [Social Media,Digital Minimalism,Cal Newport,Reading,Summary]
 featuredImage: './images2/digital-minimalism-by-cal-newport-0.jpg'
 ---
 
-### “Digital Minimalism” by Cal Newport
-
 ![](/images2/digital-minimalism-by-cal-newport-0.jpg)
 
 ### Introduction

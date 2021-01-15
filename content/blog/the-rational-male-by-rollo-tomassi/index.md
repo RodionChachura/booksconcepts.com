@@ -4,8 +4,6 @@ keywords: [Positive Masculinity,Reading,Self Improvement,Books,Masculinity]
 featuredImage: './images2/the-rational-male-by-rollo-tomassi-0.jpg'
 ---
 
-### “The Rational Male” by Rollo Tomassi
-
 ![](/images2/the-rational-male-by-rollo-tomassi-0.jpg)
 
 ### The Basics

@@ -4,8 +4,6 @@ keywords: [Stoicism,Philosophy,Reading,Summary,Books]
 featuredImage: './images2/a-guide-to-the-good-life-the-ancient-art-of-stoic-joy-by-william-b-irvine-0.jpg'
 ---
 
-### “A Guide To The Good Life: The Ancient Art Of Stoic Joy” by William B. Irvine
-
 ![](/images2/a-guide-to-the-good-life-the-ancient-art-of-stoic-joy-by-william-b-irvine-0.jpg)
 
 ### Introduction. A Plan for Living.

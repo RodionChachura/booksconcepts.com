@@ -4,8 +4,6 @@ keywords: [Self Improvement,Books]
 featuredImage: './images2/as-a-man-thinketh-by-james-allen-0.jpg'
 ---
 
-### “As a Man Thinketh” by James Allen
-
 ![](/images2/as-a-man-thinketh-by-james-allen-0.jpg)
 
 #### THOUGHT AND CHARACTER

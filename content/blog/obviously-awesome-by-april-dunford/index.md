@@ -4,8 +4,6 @@ keywords: [Product Positioning,Positioning,Product Management,Marketing]
 featuredImage: './images2/obviously-awesome-by-april-dunford-0.jpg'
 ---
 
-### “Obviously Awesome” by **April Dunford**
-
 ![](/images2/obviously-awesome-by-april-dunford-0.jpg)
 
 #### INTRODUCTION

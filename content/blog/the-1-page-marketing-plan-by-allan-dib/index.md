@@ -4,8 +4,6 @@ keywords: [Marketing,Marketing Plan]
 featuredImage: './images2/the-1-page-marketing-plan-by-allan-dib-0.jpg'
 ---
 
-### “The 1-Page Marketing Plan” by Allan Dib
-
 ![](/images2/the-1-page-marketing-plan-by-allan-dib-0.jpg)
 
 ### INTRODUCTION

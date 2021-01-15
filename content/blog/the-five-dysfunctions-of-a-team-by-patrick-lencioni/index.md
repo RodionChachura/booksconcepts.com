@@ -4,8 +4,6 @@ keywords: [Leadership,Books,Reading]
 featuredImage: './images2/the-five-dysfunctions-of-a-team-by-patrick-lencioni-0.jpg'
 ---
 
-### “The Five Dysfunctions of a Team” by Patrick Lencioni
-
 ![](/images2/the-five-dysfunctions-of-a-team-by-patrick-lencioni-0.jpg)
 
 #### An overview of the model

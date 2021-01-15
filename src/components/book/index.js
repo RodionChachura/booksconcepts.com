@@ -1,1 +1,1 @@
-export { Section, Article } from './styles'
+export { Section, Article, Title, Minutes } from './styles'

@@ -4,8 +4,6 @@ keywords: [Finance]
 featuredImage: './0.jpg'
 ---
 
-### “How Finance Works” by Mihir A. Desai
-
 ![](./0.jpg)
 
 ## Financial Analysis

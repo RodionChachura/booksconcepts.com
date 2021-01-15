@@ -4,8 +4,6 @@ keywords: [Productivity,Books,Reading]
 featuredImage: './images2/deep-work-by-cal-newport-0.jpg'
 ---
 
-### “Deep Work” by Cal Newport
-
 ![](/images2/deep-work-by-cal-newport-0.jpg)
 
 #### Introduction
