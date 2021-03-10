@@ -84,3 +84,59 @@ The lower this figure, the faster a company is getting cash from its sales.
 ![dupont.png](./dupont.png)
 
 If shareholders bear more risk, they're going to deman a higer return. So capital markets and the competition across companies drive returns to shareholders together and risk drives them apart.
+
+**Return on capital** = EBIAT / (debt + equity)
+It considers both capital providers and their combined return.
+
+## The Finance Perspective
+
+Cash is the most important. Your capacity to transform your business into cash that you can use to finance your activities, repay your debt or distribute to your shareholders is the key.
+
+**EBIT Equation** = Net profit + interest + taxes
+Operating profit gives a clearer view of how efficient and profitable a company is relative to new profit.
+
+**EBITDA Equation** = Net profit + interest + taxes + depreciation and amortization
+
+**Operating Cash Flow Equation** = Net profit + depreciation and amortization - increases in accounts receivable - increases in inventory + increases in unearned revenue + increases in accounts payable
+It considers the costs of working capital, and it accounts for tax and interest paymetns by beginning with net profit.
+
+**Working capital** = current assets - current liabilities
+
+The equation for calculating free cash flow provides a measure of the amount of cash flows truly unencumbered by the operations of a business.
+[free cash flow](./free-cash-flow.png)
+
+Every time you have to wait a year, you "haircut" future cash flows by one plus the interest rate, because that's what you would have earned if you hadn't had to wait.
+**Discounting Formula**: Cash flow / (1 + r)
+r = discount rate, the interest you could receive by making that relevant alternative investment.
+
+The present value of any investment is the sum of all future cash flows discounted back to the present using an appropriate discount rate.
+
+The emphasis on cash explains why companies that generate profits but no cash might be unsustainable and why companies that generate no profits but lots of cahs might be valuable.
+Cash earned today is more valuable than cahs earned tomorrow because of the opportunity cost of capital.
+
+## The Financial Ecosystem
+
+The analyst's job is to value companies by creating forecasts and then make recommendations to investors.
+
+Exchange of information is one of the first key insights about capital markets - often, their interactions take the form of trades, and these trades may not only be in capital. Often, these trades are for information or knowledge.
+
+Institutional investors are simply entities that invest large amounts of capital on behalf of others and allocate it in ways that feel will best support their clients.
+
+**Mutual Funds** manage money on behalf of individuals and invest those funds in diversified portfolios of stocks and bonds.
+
+**Pension Funds** are large pools of money that represent the retirement assets of workers from a particular company, union, or government entity.
+
+**Foundations and endowment funds**. Not-for-profit foun- dations and organizations sometimes retain and invest funds over long periods to create more stability for their operations.
+
+**Sovereign wealth funds**. Countries with excess savings often invest those savings through a sovereign wealth funds.
+
+**Hedge funds** are similar to mutual funds, they are differentiated by their lower level of regulations and use of leverage and their different approach to managing risk.
+
+"Going log" means you buy the stock.
+To short a company's stock, you borrow shares from another investor, such as mutual fund, that charges fee for lending the shares to you. Once you’ve bor- rowed the shares, you sell them. At some point in the future, you buy back the shares (hopefully at a lower price) and return them to the institutional investor whom you borrowed the shares from.
+
+*Traders* make money largely from the gap known as the bid-ask spread.
+
+*Salespeople* sell financial instruments to investors on the buy side
+
+*Investment bankers* work with companies that either want to raise the capital or want to buy or sell operating assets.

@@ -164,3 +164,30 @@ Remember the whole equation of dharma. Dharma isn’t just passion and skills. D
 
 Between the alarm clock and the world inside your phone, you’re immediately overwhelmed with stress, pressure, anxiety. Do you really expect yourself to emerge from that state and have a pleasant, productive day?
 
+The energy and mood of the morning carries through the day, so making life more meaningful begins there.
+
+When you start the morning with high pressure and high stress, you're programming your body to operate in that mode for the rest of the day.
+
+Settle into patterns and make decisions the night before, and you'll have a head start on the morning and will be better able to make focused decisions throughout the day.
+
+The emotion you fall asleep with at night is most likely the emotion you'll wake up with in the morning.
+
+Rules and routines ease our cognitive burden so we have bandwidth for creativity. Structure enhances spontaneity. And discovery reinvigorates the routine.
+
+Create spaces that brings you the energy that matches your intention.
+
+The point is to be aware about where you thrive, where you're at your best, and to figure out how to spend the most time in that place.
+
+Change happens with small steps and big priorities. Pick one thing to change, make it your number one priority, and see it through before you move to the next.
+
+## THE MIND
+
+The more we can evaluate, understand, train, and strengthen our relationship with the mind, the more successfully we navigate our lives and overcome challenges.
+
+Identify the ways you're making progress, and you will begin to see, feel, and appreciate the value of what you are doing.
+
+Use the awareness of what deep pain really is to keep smaller disruptions in persepective.
+
+Recording yourself puts you in an observer mindset, making you deal more objectively with yourself.
+
+When anxious thoughts arise, instead of indulging them, we respond with compession. It's about observing your feelings without judging them.
